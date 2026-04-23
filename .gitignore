@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+bus_stops.json
+bus_routes.json
+client/node_modules/
+server/node_modules/

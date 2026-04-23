@@ -1,0 +1,6304 @@
+{
+  "stops": [
+    {
+      "id": 261668914,
+      "lat": 24.4705615,
+      "lon": 54.3781138,
+      "name": "Stop 261668914",
+      "name_en": "Stop 261668914",
+      "routes": [
+        "170"
+      ]
+    },
+    {
+      "id": 262629444,
+      "lat": 24.4224241,
+      "lon": 54.4514121,
+      "name": "Stop 262629444",
+      "name_en": "Stop 262629444",
+      "routes": [
+        "161"
+      ]
+    },
+    {
+      "id": 262631502,
+      "lat": 24.4066791,
+      "lon": 54.4714016,
+      "name": "Stop 262631502",
+      "name_en": "Stop 262631502",
+      "routes": [
+        "161"
+      ]
+    },
+    {
+      "id": 263331359,
+      "lat": 24.400626,
+      "lon": 54.4957165,
+      "name": "Stop 263331359",
+      "name_en": "Stop 263331359",
+      "routes": [
+        "161"
+      ]
+    },
+    {
+      "id": 988110318,
+      "lat": 24.4920688,
+      "lon": 54.6274306,
+      "name": "Stop 988110318",
+      "name_en": "Stop 988110318",
+      "routes": []
+    },
+    {
+      "id": 1279048702,
+      "lat": 24.4382016,
+      "lon": 54.4010744,
+      "name": "Stop 1279048702",
+      "name_en": "Stop 1279048702",
+      "routes": []
+    },
+    {
+      "id": 1670669903,
+      "lat": 24.4890817,
+      "lon": 54.3732905,
+      "name": "B00755 Tourist Club Area 9 st Al Armook School: 008, 011",
+      "name_en": "B00755 Tourist Club Area 9 st Al Armook School: 008, 011",
+      "routes": []
+    },
+    {
+      "id": 1670682965,
+      "lat": 24.4881339,
+      "lon": 54.3665459,
+      "name": "Stop 1670682965",
+      "name_en": "Stop 1670682965",
+      "routes": []
+    },
+    {
+      "id": 1670682969,
+      "lat": 24.4894836,
+      "lon": 54.3684585,
+      "name": "Libe city drop",
+      "name_en": "Libe city drop",
+      "routes": []
+    },
+    {
+      "id": 1670682973,
+      "lat": 24.4888642,
+      "lon": 54.3713682,
+      "name": "Stop 1670682973",
+      "name_en": "Stop 1670682973",
+      "routes": []
+    },
+    {
+      "id": 1670682975,
+      "lat": 24.4891833,
+      "lon": 54.3706785,
+      "name": "Stop 1670682975",
+      "name_en": "Stop 1670682975",
+      "routes": []
+    },
+    {
+      "id": 1670682986,
+      "lat": 24.4654786,
+      "lon": 54.3351428,
+      "name": "Stop 1670682986",
+      "name_en": "Stop 1670682986",
+      "routes": []
+    },
+    {
+      "id": 1670682989,
+      "lat": 24.4888735,
+      "lon": 54.3734696,
+      "name": "9th Street At Yarmook School",
+      "name_en": "9th Street At Yarmook School",
+      "routes": []
+    },
+    {
+      "id": 1670682992,
+      "lat": 24.4856894,
+      "lon": 54.3631187,
+      "name": "Stop 1670682992",
+      "name_en": "Bus stop 34",
+      "routes": []
+    },
+    {
+      "id": 1670682997,
+      "lat": 24.4633595,
+      "lon": 54.3361674,
+      "name": "Stop 1670682997",
+      "name_en": "Stop 1670682997",
+      "routes": []
+    },
+    {
+      "id": 1802887906,
+      "lat": 24.4333462,
+      "lon": 54.4365882,
+      "name": "Routes 054, 056",
+      "name_en": "44",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 1802901134,
+      "lat": 24.4326877,
+      "lon": 54.4374003,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 1835251087,
+      "lat": 24.4213026,
+      "lon": 54.5923562,
+      "name": "161; 218",
+      "name_en": "161; 218",
+      "routes": []
+    },
+    {
+      "id": 1835251090,
+      "lat": 24.4201803,
+      "lon": 54.5928833,
+      "name": "161; 218",
+      "name_en": "161; 218",
+      "routes": []
+    },
+    {
+      "id": 2204194102,
+      "lat": 24.4966048,
+      "lon": 54.3786189,
+      "name": "Stop 2204194102",
+      "name_en": "Stop 2204194102",
+      "routes": []
+    },
+    {
+      "id": 2204194103,
+      "lat": 24.4961341,
+      "lon": 54.3772872,
+      "name": "Stop 2204194103",
+      "name_en": "67",
+      "routes": []
+    },
+    {
+      "id": 2429391973,
+      "lat": 24.5470674,
+      "lon": 54.4359557,
+      "name": "Saadiyat Public Beach Bus Stop",
+      "name_en": "Saadiyat Public Beach Bus Stop",
+      "routes": []
+    },
+    {
+      "id": 2479490053,
+      "lat": 24.5113145,
+      "lon": 54.4052645,
+      "name": "Stop 2479490053",
+      "name_en": "Stop 2479490053",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 2479532215,
+      "lat": 24.5066906,
+      "lon": 54.4063256,
+      "name": "Stop 2479532215",
+      "name_en": "Stop 2479532215",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 2551885497,
+      "lat": 24.281948,
+      "lon": 54.6424751,
+      "name": "Stop 2551885497",
+      "name_en": "Stop 2551885497",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 2559492577,
+      "lat": 24.522646,
+      "lon": 54.3726823,
+      "name": "Mina Stop 1",
+      "name_en": "Mina Stop 1",
+      "routes": []
+    },
+    {
+      "id": 2689723566,
+      "lat": 24.4687996,
+      "lon": 54.3542954,
+      "name": "Stop 2689723566",
+      "name_en": "008",
+      "routes": []
+    },
+    {
+      "id": 2689723567,
+      "lat": 24.466942,
+      "lon": 54.3546348,
+      "name": "Stop 2689723567",
+      "name_en": "Stop 2689723567",
+      "routes": []
+    },
+    {
+      "id": 2699649152,
+      "lat": 24.4856218,
+      "lon": 54.366066,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 2699649153,
+      "lat": 24.48532,
+      "lon": 54.3657826,
+      "name": "Sultan Bin Zayed St / Madinat Shopping Centre",
+      "name_en": "Sultan Bin Zayed St / Madinat Shopping Centre",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 2718622408,
+      "lat": 24.47109,
+      "lon": 54.3520869,
+      "name": "Stop 2718622408",
+      "name_en": "Stop 2718622408",
+      "routes": []
+    },
+    {
+      "id": 3048782645,
+      "lat": 24.4959043,
+      "lon": 54.3717193,
+      "name": "Stop 3048782645",
+      "name_en": "Stop 3048782645",
+      "routes": []
+    },
+    {
+      "id": 3048784261,
+      "lat": 24.4949978,
+      "lon": 54.3703238,
+      "name": "Hamdan St / Emirates Tower",
+      "name_en": "Hamdan St / Emirates Tower",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 3048784262,
+      "lat": 24.4941382,
+      "lon": 54.3692113,
+      "name": "samad office emirates",
+      "name_en": "samad office emirates - 5, 9, 41, 65",
+      "routes": []
+    },
+    {
+      "id": 3048784263,
+      "lat": 24.4431806,
+      "lon": 54.4046909,
+      "name": "094",
+      "name_en": "094",
+      "routes": []
+    },
+    {
+      "id": 3048789135,
+      "lat": 24.4425184,
+      "lon": 54.4046215,
+      "name": "Stop 3048789135",
+      "name_en": "Stop 3048789135",
+      "routes": []
+    },
+    {
+      "id": 3048791508,
+      "lat": 24.4438367,
+      "lon": 54.4032696,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 3048791509,
+      "lat": 24.4447272,
+      "lon": 54.4031145,
+      "name": "Stop 3048791509",
+      "name_en": "Stop 3048791509",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 3110627649,
+      "lat": 24.4365192,
+      "lon": 54.6200095,
+      "name": "Masdar",
+      "name_en": "Masdar",
+      "routes": []
+    },
+    {
+      "id": 3246139744,
+      "lat": 24.4493453,
+      "lon": 54.6054748,
+      "name": "Al Muneera",
+      "name_en": "Al Muneera",
+      "routes": [
+        "Yas Mall Shuttle Bus"
+      ]
+    },
+    {
+      "id": 3246143338,
+      "lat": 24.4567569,
+      "lon": 54.6157225,
+      "name": "Al Zeina",
+      "name_en": "Al Zeina",
+      "routes": [
+        "Yas Mall Shuttle Bus"
+      ]
+    },
+    {
+      "id": 3246317524,
+      "lat": 24.4852524,
+      "lon": 54.607336,
+      "name": "Yas Mall",
+      "name_en": "Yas Mall",
+      "routes": [
+        "Yas Mall Shuttle Bus"
+      ]
+    },
+    {
+      "id": 3296153487,
+      "lat": 24.4813072,
+      "lon": 54.3578959,
+      "name": "Stop 3296153487",
+      "name_en": "Stop 3296153487",
+      "routes": []
+    },
+    {
+      "id": 3296153488,
+      "lat": 24.4802912,
+      "lon": 54.3608795,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 3320211520,
+      "lat": 24.4618348,
+      "lon": 54.3789021,
+      "name": "Stop 3320211520",
+      "name_en": "Stop 3320211520",
+      "routes": []
+    },
+    {
+      "id": 3320211521,
+      "lat": 24.4614928,
+      "lon": 54.3787113,
+      "name": "Stop 3320211521",
+      "name_en": "Stop 3320211521",
+      "routes": []
+    },
+    {
+      "id": 3366581353,
+      "lat": 24.4783915,
+      "lon": 54.3686152,
+      "name": "Stop 3366581353",
+      "name_en": "Stop 3366581353",
+      "routes": []
+    },
+    {
+      "id": 3478750525,
+      "lat": 24.3717043,
+      "lon": 54.5362402,
+      "name": "Stop 3478750525",
+      "name_en": "Stop 3478750525",
+      "routes": []
+    },
+    {
+      "id": 3763330168,
+      "lat": 24.4339642,
+      "lon": 54.4322829,
+      "name": "044, 054, 056, 094",
+      "name_en": "44",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 3763330169,
+      "lat": 24.4334643,
+      "lon": 54.4320734,
+      "name": "Stop 3763330169",
+      "name_en": "Stop 3763330169",
+      "routes": []
+    },
+    {
+      "id": 3782365047,
+      "lat": 24.4727794,
+      "lon": 54.3739359,
+      "name": "Honey city pickup",
+      "name_en": "Honey city pickup",
+      "routes": []
+    },
+    {
+      "id": 3782365048,
+      "lat": 24.4716637,
+      "lon": 54.3723735,
+      "name": "Al Wahda Mall",
+      "name_en": "Al Wahda Mall",
+      "routes": []
+    },
+    {
+      "id": 3782365049,
+      "lat": 24.4717065,
+      "lon": 54.3730387,
+      "name": "Al Wahda Mall",
+      "name_en": "Al Wahda Mall",
+      "routes": []
+    },
+    {
+      "id": 3810745357,
+      "lat": 24.4132057,
+      "lon": 54.4694334,
+      "name": "Saif Ghobash/Sheikh Zayed Grand Mosque",
+      "name_en": "Saif Ghobash/Sheikh Zayed Grand Mosque",
+      "routes": []
+    },
+    {
+      "id": 3828063364,
+      "lat": 24.4348507,
+      "lon": 54.6167989,
+      "name": "Masdar Institute",
+      "name_en": "Masdar Institute",
+      "routes": []
+    },
+    {
+      "id": 3832325087,
+      "lat": 24.4604891,
+      "lon": 54.6731055,
+      "name": "Stop 3832325087",
+      "name_en": "Stop 3832325087",
+      "routes": []
+    },
+    {
+      "id": 3833673807,
+      "lat": 24.4553612,
+      "lon": 54.674636,
+      "name": "Stop 3833673807",
+      "name_en": "Stop 3833673807",
+      "routes": []
+    },
+    {
+      "id": 3833673808,
+      "lat": 24.4552202,
+      "lon": 54.6748197,
+      "name": "Stop 3833673808",
+      "name_en": "Stop 3833673808",
+      "routes": []
+    },
+    {
+      "id": 3833973874,
+      "lat": 24.4606569,
+      "lon": 54.6733043,
+      "name": "Stop 3833973874",
+      "name_en": "Stop 3833973874",
+      "routes": []
+    },
+    {
+      "id": 3837354217,
+      "lat": 24.4384766,
+      "lon": 54.4150212,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 3837354673,
+      "lat": 24.4411275,
+      "lon": 54.4084603,
+      "name": "094",
+      "name_en": "094",
+      "routes": []
+    },
+    {
+      "id": 3837354716,
+      "lat": 24.4621629,
+      "lon": 54.3866385,
+      "name": "33, 34, 54, 55, 56, 94, 101, 102, 110, 111, 120, 121, 155, 160, 170, 300, ... A2, X5",
+      "name_en": "33, 34, 54, 55, 56, 94, 101, 102, 110, 111, 120, 121, 155, 160, 170, 300, ... A2, X5",
+      "routes": []
+    },
+    {
+      "id": 3837356263,
+      "lat": 24.4520194,
+      "lon": 54.3962254,
+      "name": "33, 34, 94, X5",
+      "name_en": "094, X5",
+      "routes": []
+    },
+    {
+      "id": 3837356549,
+      "lat": 24.4912325,
+      "lon": 54.3657652,
+      "name": "94",
+      "name_en": "5, 41, 54, 65, 94, 101, 102, 120, 121, 170, 201, 202, 407",
+      "routes": []
+    },
+    {
+      "id": 3837356550,
+      "lat": 24.4886175,
+      "lon": 54.3619659,
+      "name": "Stop 3837356550",
+      "name_en": "Stop 3837356550",
+      "routes": []
+    },
+    {
+      "id": 3837356603,
+      "lat": 24.45543,
+      "lon": 54.3930034,
+      "name": "33, 34, ..  094",
+      "name_en": "094",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 3837356638,
+      "lat": 24.4844181,
+      "lon": 54.3582798,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 3837356676,
+      "lat": 24.459593,
+      "lon": 54.389017,
+      "name": "94",
+      "name_en": "33, 34, 94",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 3837356678,
+      "lat": 24.4747193,
+      "lon": 54.3667446,
+      "name": "Al Fallah St",
+      "name_en": "Al Fallah St",
+      "routes": []
+    },
+    {
+      "id": 3837356766,
+      "lat": 24.4551646,
+      "lon": 54.3925846,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 3837359104,
+      "lat": 24.4400689,
+      "lon": 54.4109354,
+      "name": "094",
+      "name_en": "094",
+      "routes": []
+    },
+    {
+      "id": 3837359639,
+      "lat": 24.4470461,
+      "lon": 54.4009452,
+      "name": "54",
+      "name_en": "54",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 3837363899,
+      "lat": 24.4544899,
+      "lon": 54.6724289,
+      "name": "Stop 3837363899",
+      "name_en": "Stop 3837363899",
+      "routes": []
+    },
+    {
+      "id": 3837363900,
+      "lat": 24.4542464,
+      "lon": 54.6725349,
+      "name": "Stop 3837363900",
+      "name_en": "Stop 3837363900",
+      "routes": []
+    },
+    {
+      "id": 3837363901,
+      "lat": 24.4575675,
+      "lon": 54.6721761,
+      "name": "Stop 3837363901",
+      "name_en": "Stop 3837363901",
+      "routes": []
+    },
+    {
+      "id": 3837363902,
+      "lat": 24.4575333,
+      "lon": 54.671749,
+      "name": "Stop 3837363902",
+      "name_en": "Stop 3837363902",
+      "routes": []
+    },
+    {
+      "id": 3841379117,
+      "lat": 24.4727556,
+      "lon": 54.6700335,
+      "name": "Stop 3841379117",
+      "name_en": "Stop 3841379117",
+      "routes": []
+    },
+    {
+      "id": 3841379119,
+      "lat": 24.4728555,
+      "lon": 54.6704234,
+      "name": "Stop 3841379119",
+      "name_en": "Stop 3841379119",
+      "routes": []
+    },
+    {
+      "id": 3870421161,
+      "lat": 24.4223034,
+      "lon": 54.4524348,
+      "name": "Saif Ghobash/17 Street",
+      "name_en": "Saif Ghobash/17 Street",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 3870421162,
+      "lat": 24.4233649,
+      "lon": 54.4513845,
+      "name": "17 Street/General Civil Aviation Authority",
+      "name_en": "17 Street/General Civil Aviation Authority",
+      "routes": []
+    },
+    {
+      "id": 3870439024,
+      "lat": 24.4159043,
+      "lon": 54.4614733,
+      "name": "Saif Ghobash/Al Noor Hospital",
+      "name_en": "Saif Ghobash/Al Noor Hospital",
+      "routes": []
+    },
+    {
+      "id": 3870509486,
+      "lat": 24.4186297,
+      "lon": 54.4561974,
+      "name": "Zayed Sport Stadium",
+      "name_en": "Zayed Sport Stadium",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 3872380737,
+      "lat": 24.4134638,
+      "lon": 54.4642288,
+      "name": "Street 35/Ministry Of Interior",
+      "name_en": "Street 35/Ministry Of Interior",
+      "routes": []
+    },
+    {
+      "id": 3872381600,
+      "lat": 24.4140527,
+      "lon": 54.4652289,
+      "name": "Saif Ghobash/Ministry Of Interior",
+      "name_en": "Saif Ghobash/Ministry Of Interior",
+      "routes": []
+    },
+    {
+      "id": 3872381609,
+      "lat": 24.4142978,
+      "lon": 54.4654925,
+      "name": "Saif Ghobash/Ministry Of Interior",
+      "name_en": "Saif Ghobash/Ministry Of Interior",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 3874317520,
+      "lat": 24.4181428,
+      "lon": 54.4480056,
+      "name": "Zayed Sports City",
+      "name_en": "Zayed Sports City",
+      "routes": []
+    },
+    {
+      "id": 3885322535,
+      "lat": 24.501999,
+      "lon": 54.3770923,
+      "name": "Al Mina Street",
+      "name_en": "Al Mina Street",
+      "routes": [
+        "054"
+      ]
+    },
+    {
+      "id": 3904510981,
+      "lat": 24.4221107,
+      "lon": 54.4485653,
+      "name": "B03055",
+      "name_en": "B03055",
+      "routes": []
+    },
+    {
+      "id": 3926765519,
+      "lat": 24.4264301,
+      "lon": 54.44655,
+      "name": "A00273",
+      "name_en": "A00273",
+      "routes": []
+    },
+    {
+      "id": 3935786946,
+      "lat": 24.4134543,
+      "lon": 54.469808,
+      "name": "Saif Ghobash/Sheikh Zayed Grand Mosque",
+      "name_en": "Saif Ghobash/Sheikh Zayed Grand Mosque",
+      "routes": []
+    },
+    {
+      "id": 3937651468,
+      "lat": 24.4165006,
+      "lon": 54.4610599,
+      "name": "Saif Ghobash/Al Noor Hospital",
+      "name_en": "Saif Ghobash/Al Noor Hospital",
+      "routes": []
+    },
+    {
+      "id": 3937651469,
+      "lat": 24.4188135,
+      "lon": 54.4577823,
+      "name": "Saif Ghobash/Zayed Sports Stadium",
+      "name_en": "Saif Ghobash/Zayed Sports Stadium",
+      "routes": []
+    },
+    {
+      "id": 3937651470,
+      "lat": 24.4187622,
+      "lon": 54.4573156,
+      "name": "Saif Ghobash/Zayed Sports Stadium",
+      "name_en": "Saif Ghobash/Zayed Sports Stadium",
+      "routes": []
+    },
+    {
+      "id": 3938904990,
+      "lat": 24.4238914,
+      "lon": 54.4457032,
+      "name": "Saif Ghobash Street/Health Authority",
+      "name_en": "Saif Ghobash Street/Health Authority",
+      "routes": []
+    },
+    {
+      "id": 3938904991,
+      "lat": 24.4232589,
+      "lon": 54.4496434,
+      "name": "Saif Ghobash Street/General Civil Aviation Authority",
+      "name_en": "Saif Ghobash Street/General Civil Aviation Authority",
+      "routes": []
+    },
+    {
+      "id": 3938904992,
+      "lat": 24.4220696,
+      "lon": 54.4523363,
+      "name": "300",
+      "name_en": "Saif Ghobash/17 Street",
+      "routes": []
+    },
+    {
+      "id": 3958150479,
+      "lat": 24.4424243,
+      "lon": 54.3884468,
+      "name": "044, 043",
+      "name_en": "044, 043",
+      "routes": []
+    },
+    {
+      "id": 3959197907,
+      "lat": 24.4837583,
+      "lon": 54.3668093,
+      "name": "Madinat Zayed",
+      "name_en": "Madinat Zayed",
+      "routes": []
+    },
+    {
+      "id": 3979070769,
+      "lat": 24.4910482,
+      "lon": 54.3602411,
+      "name": "Al Markaziya East",
+      "name_en": "Al Markaziya East",
+      "routes": []
+    },
+    {
+      "id": 3987551619,
+      "lat": 24.4717444,
+      "lon": 54.3695625,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 3987551620,
+      "lat": 24.4711246,
+      "lon": 54.3701091,
+      "name": "Stop 3987551620",
+      "name_en": "Stop 3987551620",
+      "routes": []
+    },
+    {
+      "id": 3988012757,
+      "lat": 24.4331224,
+      "lon": 54.4344767,
+      "name": "Stop 3988012757",
+      "name_en": "Stop 3988012757",
+      "routes": []
+    },
+    {
+      "id": 3988447104,
+      "lat": 24.4177935,
+      "lon": 54.447876,
+      "name": "Zayed Sports City",
+      "name_en": "Zayed Sports City",
+      "routes": []
+    },
+    {
+      "id": 3991602815,
+      "lat": 24.47585,
+      "lon": 54.3474964,
+      "name": "Al Khalidiya",
+      "name_en": "Al Khalidiya 34, 05",
+      "routes": []
+    },
+    {
+      "id": 4001078098,
+      "lat": 24.4184844,
+      "lon": 54.4457874,
+      "name": "12th Street & The Courts",
+      "name_en": "12th Street & The Courts",
+      "routes": []
+    },
+    {
+      "id": 4001980771,
+      "lat": 24.4290747,
+      "lon": 54.4267168,
+      "name": "Al Aman Airport Street & Women's Police School",
+      "name_en": "Al Aman Airport Street & Women's Police School",
+      "routes": []
+    },
+    {
+      "id": 4001990956,
+      "lat": 24.4339969,
+      "lon": 54.4286101,
+      "name": "Al Zahra East Street & Local Affairs Department",
+      "name_en": "Al Zahra East Street & Local Affairs Department",
+      "routes": []
+    },
+    {
+      "id": 4003599817,
+      "lat": 24.4680066,
+      "lon": 54.3409118,
+      "name": "Zayed 1st & Khalidiya Compound",
+      "name_en": "Zayed 1st & Khalidiya Compound",
+      "routes": []
+    },
+    {
+      "id": 4015832494,
+      "lat": 24.4671981,
+      "lon": 54.3335717,
+      "name": "6th Street & Corniche Road",
+      "name_en": "6th Street & Corniche Road",
+      "routes": []
+    },
+    {
+      "id": 4027138118,
+      "lat": 24.461133,
+      "lon": 54.3424184,
+      "name": "6th & Bateen Clinic",
+      "name_en": "6th & Bateen Clinic",
+      "routes": []
+    },
+    {
+      "id": 4027280676,
+      "lat": 24.46541,
+      "lon": 54.3379001,
+      "name": "7th & Khalidiya Ladies Park",
+      "name_en": "7th & Khalidiya Ladies Park",
+      "routes": []
+    },
+    {
+      "id": 4043637503,
+      "lat": 24.4207532,
+      "lon": 54.4621259,
+      "name": "Soccer School Academy",
+      "name_en": "Soccer School Academy",
+      "routes": []
+    },
+    {
+      "id": 4048009605,
+      "lat": 24.5235288,
+      "lon": 54.6724098,
+      "name": "\u062f\u064a\u0631\u0641\u064a\u0644\u062f\u0632 \u0645\u0648\u0644",
+      "name_en": "Deerfields Mall",
+      "routes": []
+    },
+    {
+      "id": 4055819223,
+      "lat": 24.4217918,
+      "lon": 54.4365766,
+      "name": "Al Karamah Street And ADNEC",
+      "name_en": "Al Karamah Street And ADNEC",
+      "routes": []
+    },
+    {
+      "id": 4055822788,
+      "lat": 24.4226689,
+      "lon": 54.4303677,
+      "name": "Al Karamah Street And Zayed Military Hospital",
+      "name_en": "Al Karamah Street And Zayed Military Hospital",
+      "routes": []
+    },
+    {
+      "id": 4063087336,
+      "lat": 24.4397885,
+      "lon": 54.5975441,
+      "name": "Stop 4063087336",
+      "name_en": "Stop 4063087336",
+      "routes": []
+    },
+    {
+      "id": 4066094908,
+      "lat": 24.4289304,
+      "lon": 54.4434288,
+      "name": "94",
+      "name_en": "East 4th Street & Family Guidance",
+      "routes": []
+    },
+    {
+      "id": 4092089273,
+      "lat": 24.4293166,
+      "lon": 54.4224752,
+      "name": "Al Ain University Of Science & Technology",
+      "name_en": "Al Ain University Of Science & Technology",
+      "routes": []
+    },
+    {
+      "id": 4116428595,
+      "lat": 24.444877,
+      "lon": 54.3862069,
+      "name": "43, 44",
+      "name_en": "43, 44",
+      "routes": []
+    },
+    {
+      "id": 4125488792,
+      "lat": 24.3595096,
+      "lon": 54.5036853,
+      "name": "Stop 4125488792",
+      "name_en": "Stop 4125488792",
+      "routes": []
+    },
+    {
+      "id": 4134810990,
+      "lat": 24.4429995,
+      "lon": 54.3911062,
+      "name": "Stop 4134810990",
+      "name_en": "Stop 4134810990",
+      "routes": []
+    },
+    {
+      "id": 4142632589,
+      "lat": 24.3656283,
+      "lon": 54.5622991,
+      "name": "Zayed City - ADU Main Gate",
+      "name_en": "Zayed City - ADU Main Gate",
+      "routes": []
+    },
+    {
+      "id": 4150332889,
+      "lat": 24.4281834,
+      "lon": 54.4299998,
+      "name": "300",
+      "name_en": "Pepsi",
+      "routes": []
+    },
+    {
+      "id": 4163312991,
+      "lat": 24.4787321,
+      "lon": 54.3805741,
+      "name": "Stop 4163312991",
+      "name_en": "Stop 4163312991",
+      "routes": []
+    },
+    {
+      "id": 4166703190,
+      "lat": 24.4357015,
+      "lon": 54.3952292,
+      "name": "044",
+      "name_en": "044",
+      "routes": []
+    },
+    {
+      "id": 4166703389,
+      "lat": 24.4352797,
+      "lon": 54.3955747,
+      "name": "Stop 4166703389",
+      "name_en": "Stop 4166703389",
+      "routes": []
+    },
+    {
+      "id": 4170997789,
+      "lat": 24.4335982,
+      "lon": 54.4345675,
+      "name": "044, 054, 056, 094",
+      "name_en": "44",
+      "routes": []
+    },
+    {
+      "id": 4182557598,
+      "lat": 24.4445323,
+      "lon": 54.3922883,
+      "name": "Stop 4182557598",
+      "name_en": "Stop 4182557598",
+      "routes": []
+    },
+    {
+      "id": 4190025819,
+      "lat": 24.4843653,
+      "lon": 54.3668364,
+      "name": "medinat zayed Gold Center 33, 34, 54, 55, 56, 94, 110, 111, 155, 160, 300, 404, 405, A2, X5",
+      "name_en": "medinat zayed",
+      "routes": []
+    },
+    {
+      "id": 4191188689,
+      "lat": 24.4926117,
+      "lon": 54.6028311,
+      "name": "yas",
+      "name_en": "yas",
+      "routes": []
+    },
+    {
+      "id": 4273257889,
+      "lat": 24.473108,
+      "lon": 54.347697,
+      "name": "Stop 4273257889",
+      "name_en": "Stop 4273257889",
+      "routes": []
+    },
+    {
+      "id": 4278034790,
+      "lat": 24.459574,
+      "lon": 54.3589835,
+      "name": "Stop 4278034790",
+      "name_en": "Stop 4278034790",
+      "routes": []
+    },
+    {
+      "id": 4278045490,
+      "lat": 24.4583767,
+      "lon": 54.3576553,
+      "name": "Stop 4278045490",
+      "name_en": "Stop 4278045490",
+      "routes": []
+    },
+    {
+      "id": 4278053089,
+      "lat": 24.4664913,
+      "lon": 54.366736,
+      "name": "Stop 4278053089",
+      "name_en": "Stop 4278053089",
+      "routes": []
+    },
+    {
+      "id": 4279609690,
+      "lat": 24.4798268,
+      "lon": 54.3713605,
+      "name": "Stop 4279609690",
+      "name_en": "Stop 4279609690",
+      "routes": []
+    },
+    {
+      "id": 4279629190,
+      "lat": 24.4867458,
+      "lon": 54.3731273,
+      "name": "Stop 4279629190",
+      "name_en": "Stop 4279629190",
+      "routes": []
+    },
+    {
+      "id": 4279629389,
+      "lat": 24.4694359,
+      "lon": 54.3628397,
+      "name": "Stop 4279629389",
+      "name_en": "Stop 4279629389",
+      "routes": []
+    },
+    {
+      "id": 4279629390,
+      "lat": 24.4771664,
+      "lon": 54.3676302,
+      "name": "Stop 4279629390",
+      "name_en": "Stop 4279629390",
+      "routes": []
+    },
+    {
+      "id": 4279629489,
+      "lat": 24.4817784,
+      "lon": 54.3741353,
+      "name": "Stop 4279629489",
+      "name_en": "Stop 4279629489",
+      "routes": []
+    },
+    {
+      "id": 4279629490,
+      "lat": 24.484108,
+      "lon": 54.3754051,
+      "name": "010",
+      "name_en": "010",
+      "routes": []
+    },
+    {
+      "id": 4280026889,
+      "lat": 24.4869282,
+      "lon": 54.3643891,
+      "name": "Stop 4280026889",
+      "name_en": "Stop 4280026889",
+      "routes": []
+    },
+    {
+      "id": 4280807013,
+      "lat": 24.4433298,
+      "lon": 54.3949704,
+      "name": "Stop 4280807013",
+      "name_en": "Stop 4280807013",
+      "routes": []
+    },
+    {
+      "id": 4281611891,
+      "lat": 24.4718722,
+      "lon": 54.3517575,
+      "name": "Stop 4281611891",
+      "name_en": "Stop 4281611891",
+      "routes": []
+    },
+    {
+      "id": 4283577495,
+      "lat": 24.4395375,
+      "lon": 54.3964893,
+      "name": "A01915 Al Mushrif 13 st/Al Mushrif Wedding Hall: 044",
+      "name_en": "A01915 Al Mushrif 13 st/Al Mushrif Wedding Hall: 044",
+      "routes": []
+    },
+    {
+      "id": 4286529891,
+      "lat": 24.4542904,
+      "lon": 54.3532425,
+      "name": "Stop 4286529891",
+      "name_en": "Stop 4286529891",
+      "routes": []
+    },
+    {
+      "id": 4286602089,
+      "lat": 24.4626617,
+      "lon": 54.3624663,
+      "name": "Stop 4286602089",
+      "name_en": "Stop 4286602089",
+      "routes": []
+    },
+    {
+      "id": 4286602090,
+      "lat": 24.4684278,
+      "lon": 54.3688768,
+      "name": "Stop 4286602090",
+      "name_en": "Stop 4286602090",
+      "routes": []
+    },
+    {
+      "id": 4286602191,
+      "lat": 24.4553242,
+      "lon": 54.4021163,
+      "name": "Stop 4286602191",
+      "name_en": "Stop 4286602191",
+      "routes": []
+    },
+    {
+      "id": 4287389089,
+      "lat": 24.4371705,
+      "lon": 54.380682,
+      "name": "Stop 4287389089",
+      "name_en": "Stop 4287389089",
+      "routes": []
+    },
+    {
+      "id": 4289312089,
+      "lat": 24.4441763,
+      "lon": 54.3926201,
+      "name": "Stop 4289312089",
+      "name_en": "Stop 4289312089",
+      "routes": []
+    },
+    {
+      "id": 4294074491,
+      "lat": 24.4597641,
+      "lon": 54.3807617,
+      "name": "Stop 4294074491",
+      "name_en": "Stop 4294074491",
+      "routes": []
+    },
+    {
+      "id": 4298097792,
+      "lat": 24.4766225,
+      "lon": 54.3721246,
+      "name": "Sultan Bin Zayed Bin St / Mariam Bint Said Mosque",
+      "name_en": "Sultan Bin Zayed Bin St / Mariam Bint Said Mosque",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 4298145891,
+      "lat": 24.4648052,
+      "lon": 54.3672069,
+      "name": "44",
+      "name_en": "44",
+      "routes": []
+    },
+    {
+      "id": 4298228289,
+      "lat": 24.4499421,
+      "lon": 54.3814093,
+      "name": "43, 44",
+      "name_en": "43, 44",
+      "routes": []
+    },
+    {
+      "id": 4298228489,
+      "lat": 24.4575663,
+      "lon": 54.3736625,
+      "name": "43, 44",
+      "name_en": "43, 44",
+      "routes": []
+    },
+    {
+      "id": 4300465990,
+      "lat": 24.4756056,
+      "lon": 54.3780502,
+      "name": "Stop 4300465990",
+      "name_en": "Stop 4300465990",
+      "routes": []
+    },
+    {
+      "id": 4300465991,
+      "lat": 24.4436242,
+      "lon": 54.3888366,
+      "name": "Stop 4300465991",
+      "name_en": "Stop 4300465991",
+      "routes": []
+    },
+    {
+      "id": 4302990489,
+      "lat": 24.4508816,
+      "lon": 54.3887108,
+      "name": "Stop 4302990489",
+      "name_en": "Stop 4302990489",
+      "routes": []
+    },
+    {
+      "id": 4303115690,
+      "lat": 24.2819781,
+      "lon": 54.6427903,
+      "name": "Baniyas West Bus Station",
+      "name_en": "Baniyas West",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 4304904892,
+      "lat": 24.3619492,
+      "lon": 54.5167343,
+      "name": "Stop 4304904892",
+      "name_en": "Mussafah St 17 Workers Village - 111, M1, M5",
+      "routes": []
+    },
+    {
+      "id": 4306931496,
+      "lat": 24.4767417,
+      "lon": 54.3522644,
+      "name": "bus 32",
+      "name_en": "bus 32",
+      "routes": []
+    },
+    {
+      "id": 4309104093,
+      "lat": 24.4479891,
+      "lon": 54.382641,
+      "name": "Stop 4309104093",
+      "name_en": "Stop 4309104093",
+      "routes": []
+    },
+    {
+      "id": 4312162691,
+      "lat": 24.4612369,
+      "lon": 54.3705861,
+      "name": "Stop 4312162691",
+      "name_en": "Stop 4312162691",
+      "routes": []
+    },
+    {
+      "id": 4312162792,
+      "lat": 24.4579645,
+      "lon": 54.3736823,
+      "name": "43, 44",
+      "name_en": "43, 44",
+      "routes": []
+    },
+    {
+      "id": 4312162795,
+      "lat": 24.4687564,
+      "lon": 54.3563958,
+      "name": "Stop 4312162795",
+      "name_en": "Stop 4312162795",
+      "routes": []
+    },
+    {
+      "id": 4312162889,
+      "lat": 24.468863,
+      "lon": 54.3546241,
+      "name": "Stop 4312162889",
+      "name_en": "Stop 4312162889",
+      "routes": []
+    },
+    {
+      "id": 4312163095,
+      "lat": 24.4778391,
+      "lon": 54.3535558,
+      "name": "Stop 4312163095",
+      "name_en": "Stop 4312163095",
+      "routes": []
+    },
+    {
+      "id": 4319017290,
+      "lat": 24.4496085,
+      "lon": 54.3811343,
+      "name": "Stop 4319017290",
+      "name_en": "Stop 4319017290",
+      "routes": []
+    },
+    {
+      "id": 4326580092,
+      "lat": 24.4594212,
+      "lon": 54.3290869,
+      "name": "Stop 4326580092",
+      "name_en": "Stop 4326580092",
+      "routes": []
+    },
+    {
+      "id": 4333486894,
+      "lat": 24.3144593,
+      "lon": 54.6120668,
+      "name": "\u062c\u0648\u0627\u0632\u0627\u062a",
+      "name_en": "\u062c\u0648\u0627\u0632\u0627\u062a",
+      "routes": []
+    },
+    {
+      "id": 4346401504,
+      "lat": 24.4666934,
+      "lon": 54.3926958,
+      "name": "\u0634\u0645\u064a\u0645",
+      "name_en": "Shamim",
+      "routes": []
+    },
+    {
+      "id": 4363302814,
+      "lat": 24.3395948,
+      "lon": 54.4906987,
+      "name": "icad",
+      "name_en": "icad",
+      "routes": []
+    },
+    {
+      "id": 4394663837,
+      "lat": 24.4403297,
+      "lon": 54.3973329,
+      "name": "44",
+      "name_en": "44",
+      "routes": []
+    },
+    {
+      "id": 4394667910,
+      "lat": 24.4208486,
+      "lon": 54.4544816,
+      "name": "Stop 4394667910",
+      "name_en": "Stop 4394667910",
+      "routes": []
+    },
+    {
+      "id": 4396134890,
+      "lat": 24.4458601,
+      "lon": 54.3942341,
+      "name": "Stop 4396134890",
+      "name_en": "Stop 4396134890",
+      "routes": []
+    },
+    {
+      "id": 4401244591,
+      "lat": 24.448357,
+      "lon": 54.3918249,
+      "name": "Stop 4401244591",
+      "name_en": "Stop 4401244591",
+      "routes": []
+    },
+    {
+      "id": 4401291289,
+      "lat": 24.4459202,
+      "lon": 54.3930033,
+      "name": "Stop 4401291289",
+      "name_en": "Stop 4401291289",
+      "routes": []
+    },
+    {
+      "id": 4401291789,
+      "lat": 24.4516778,
+      "lon": 54.388367,
+      "name": "Stop 4401291789",
+      "name_en": "Stop 4401291789",
+      "routes": []
+    },
+    {
+      "id": 4408255089,
+      "lat": 24.4379243,
+      "lon": 54.3944529,
+      "name": "Stop 4408255089",
+      "name_en": "Stop 4408255089",
+      "routes": []
+    },
+    {
+      "id": 4411584191,
+      "lat": 24.4371231,
+      "lon": 54.4032964,
+      "name": "Stop 4411584191",
+      "name_en": "Stop 4411584191",
+      "routes": []
+    },
+    {
+      "id": 4415879795,
+      "lat": 24.5266046,
+      "lon": 54.3691022,
+      "name": "Stop 4415879795",
+      "name_en": "Stop 4415879795",
+      "routes": []
+    },
+    {
+      "id": 4416327300,
+      "lat": 24.4315538,
+      "lon": 54.4021284,
+      "name": "Stop 4416327300",
+      "name_en": "Stop 4416327300",
+      "routes": []
+    },
+    {
+      "id": 4425248090,
+      "lat": 24.4302099,
+      "lon": 54.3954107,
+      "name": "Stop 4425248090",
+      "name_en": "Stop 4425248090",
+      "routes": []
+    },
+    {
+      "id": 4443327191,
+      "lat": 24.5184733,
+      "lon": 54.3726097,
+      "name": "Stop 4443327191",
+      "name_en": "9, 11",
+      "routes": []
+    },
+    {
+      "id": 4443327192,
+      "lat": 24.4980614,
+      "lon": 54.3745997,
+      "name": "Hamdan St / Hazaa Bin Zayed Mosque",
+      "name_en": "Hamdan St / Hazaa Bin Zayed Mosque",
+      "routes": [
+        "A1",
+        "407"
+      ]
+    },
+    {
+      "id": 4443345292,
+      "lat": 24.4762441,
+      "lon": 54.3232146,
+      "name": "Stop 4443345292",
+      "name_en": "Stop 4443345292",
+      "routes": []
+    },
+    {
+      "id": 4443355690,
+      "lat": 24.5145666,
+      "lon": 54.3739446,
+      "name": "Stop 4443355690",
+      "name_en": "Stop 4443355690",
+      "routes": []
+    },
+    {
+      "id": 4447881989,
+      "lat": 24.4529426,
+      "lon": 54.3586931,
+      "name": "Stop 4447881989",
+      "name_en": "Stop 4447881989",
+      "routes": []
+    },
+    {
+      "id": 4459342393,
+      "lat": 24.5171593,
+      "lon": 54.6641116,
+      "name": "Stop 4459342393",
+      "name_en": "Stop 4459342393",
+      "routes": []
+    },
+    {
+      "id": 4510699097,
+      "lat": 24.4948694,
+      "lon": 54.3654984,
+      "name": "Stop 4510699097",
+      "name_en": "Stop 4510699097",
+      "routes": []
+    },
+    {
+      "id": 4515451898,
+      "lat": 24.4320334,
+      "lon": 54.3964816,
+      "name": "Stop 4515451898",
+      "name_en": "Stop 4515451898",
+      "routes": []
+    },
+    {
+      "id": 4515514489,
+      "lat": 24.434131,
+      "lon": 54.3974406,
+      "name": "Stop 4515514489",
+      "name_en": "Stop 4515514489",
+      "routes": []
+    },
+    {
+      "id": 4515514789,
+      "lat": 24.48539,
+      "lon": 54.3823455,
+      "name": "Sheikh Zayed Bin Sultan St / Al Falah St",
+      "name_en": "Sheikh Zayed Bin Sultan St / Al Falah St",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 4528982419,
+      "lat": 24.4334613,
+      "lon": 54.4121506,
+      "name": "Stop 4528982419",
+      "name_en": "Stop 4528982419",
+      "routes": []
+    },
+    {
+      "id": 4557320591,
+      "lat": 24.4925405,
+      "lon": 54.3833027,
+      "name": "City bus terminal",
+      "name_en": "City bus terminal",
+      "routes": []
+    },
+    {
+      "id": 4557997391,
+      "lat": 24.4843659,
+      "lon": 54.3772432,
+      "name": "Stop 4557997391",
+      "name_en": "Stop 4557997391",
+      "routes": []
+    },
+    {
+      "id": 4557997392,
+      "lat": 24.4837424,
+      "lon": 54.3767801,
+      "name": "Stop 4557997392",
+      "name_en": "Stop 4557997392",
+      "routes": []
+    },
+    {
+      "id": 4571507997,
+      "lat": 24.3815238,
+      "lon": 54.4838312,
+      "name": "Almansoori office",
+      "name_en": "Almansoori office",
+      "routes": []
+    },
+    {
+      "id": 4594262997,
+      "lat": 24.488716,
+      "lon": 54.3568191,
+      "name": "Al marjaziya east",
+      "name_en": "Al marjaziya east",
+      "routes": []
+    },
+    {
+      "id": 4598544992,
+      "lat": 24.3731444,
+      "lon": 54.5134541,
+      "name": "Stop 4598544992",
+      "name_en": "Mussafah St 8 Emirates Islamic Bank - 111, M1, M2, M3, M4, M5",
+      "routes": []
+    },
+    {
+      "id": 4598614091,
+      "lat": 24.3738869,
+      "lon": 54.533,
+      "name": "Stop 4598614091",
+      "name_en": "Stop 4598614091",
+      "routes": []
+    },
+    {
+      "id": 4607782289,
+      "lat": 24.4477217,
+      "lon": 54.3913551,
+      "name": "32, 52 ...",
+      "name_en": "32, 52 ...",
+      "routes": []
+    },
+    {
+      "id": 4623524531,
+      "lat": 24.4563427,
+      "lon": 54.3839959,
+      "name": "Stop 4623524531",
+      "name_en": "21, 22, 23, 41, 42, 161, 175, X4",
+      "routes": []
+    },
+    {
+      "id": 4623536398,
+      "lat": 24.4561352,
+      "lon": 54.3837175,
+      "name": "Stop 4623536398",
+      "name_en": "Stop 4623536398",
+      "routes": []
+    },
+    {
+      "id": 4642139496,
+      "lat": 24.4924481,
+      "lon": 54.3722256,
+      "name": "Stop 4642139496",
+      "name_en": "Stop 4642139496",
+      "routes": []
+    },
+    {
+      "id": 4642149793,
+      "lat": 24.4936312,
+      "lon": 54.3738679,
+      "name": "Routes 007, 040, 044, 052, 056",
+      "name_en": "Routes 007, 040, 044, 052, 056",
+      "routes": []
+    },
+    {
+      "id": 4680185390,
+      "lat": 24.4644565,
+      "lon": 54.3269988,
+      "name": "Corniche St / Nation Towers",
+      "name_en": "Corniche St / Nation Towers",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 4690123694,
+      "lat": 24.4803297,
+      "lon": 54.3694347,
+      "name": "32,94",
+      "name_en": "bus 32",
+      "routes": []
+    },
+    {
+      "id": 4704870790,
+      "lat": 24.4354748,
+      "lon": 54.5987654,
+      "name": "Stop 4704870790",
+      "name_en": "Stop 4704870790",
+      "routes": []
+    },
+    {
+      "id": 4726899210,
+      "lat": 24.4546572,
+      "lon": 54.351833,
+      "name": "Stop 4726899210",
+      "name_en": "Stop 4726899210",
+      "routes": []
+    },
+    {
+      "id": 4726906455,
+      "lat": 24.468735,
+      "lon": 54.3435472,
+      "name": "Stop 4726906455",
+      "name_en": "Stop 4726906455",
+      "routes": []
+    },
+    {
+      "id": 4732449378,
+      "lat": 24.4602474,
+      "lon": 54.3234743,
+      "name": "Stop 4732449378",
+      "name_en": "Stop 4732449378",
+      "routes": []
+    },
+    {
+      "id": 4732467254,
+      "lat": 24.4574478,
+      "lon": 54.3373698,
+      "name": "Stop 4732467254",
+      "name_en": "Stop 4732467254",
+      "routes": []
+    },
+    {
+      "id": 4734645991,
+      "lat": 24.4643025,
+      "lon": 54.3673147,
+      "name": "Stop 4734645991",
+      "name_en": "Stop 4734645991",
+      "routes": []
+    },
+    {
+      "id": 4734885068,
+      "lat": 24.4611994,
+      "lon": 54.3565242,
+      "name": "Stop 4734885068",
+      "name_en": "Stop 4734885068",
+      "routes": []
+    },
+    {
+      "id": 4735092668,
+      "lat": 24.4668159,
+      "lon": 54.3539139,
+      "name": "Stop 4735092668",
+      "name_en": "Stop 4735092668",
+      "routes": []
+    },
+    {
+      "id": 4737162091,
+      "lat": 24.487661,
+      "lon": 54.3498912,
+      "name": "Stop 4737162091",
+      "name_en": "Stop 4737162091",
+      "routes": []
+    },
+    {
+      "id": 4749303428,
+      "lat": 24.4994046,
+      "lon": 54.3654659,
+      "name": "Stop 4749303428",
+      "name_en": "Stop 4749303428",
+      "routes": []
+    },
+    {
+      "id": 4753294094,
+      "lat": 24.4676466,
+      "lon": 54.3316685,
+      "name": "Stop 4753294094",
+      "name_en": "Stop 4753294094",
+      "routes": []
+    },
+    {
+      "id": 4753368139,
+      "lat": 24.4878006,
+      "lon": 54.5969439,
+      "name": "Stop 4753368139",
+      "name_en": "Stop 4753368139",
+      "routes": []
+    },
+    {
+      "id": 4753482154,
+      "lat": 24.4997314,
+      "lon": 54.6027192,
+      "name": "Stop 4753482154",
+      "name_en": "Stop 4753482154",
+      "routes": []
+    },
+    {
+      "id": 4753482155,
+      "lat": 24.506718,
+      "lon": 54.5984236,
+      "name": "Stop 4753482155",
+      "name_en": "Stop 4753482155",
+      "routes": []
+    },
+    {
+      "id": 4753604180,
+      "lat": 24.4842576,
+      "lon": 54.6030107,
+      "name": "Stop 4753604180",
+      "name_en": "Stop 4753604180",
+      "routes": []
+    },
+    {
+      "id": 4753621372,
+      "lat": 24.490509,
+      "lon": 54.6146576,
+      "name": "Stop 4753621372",
+      "name_en": "Stop 4753621372",
+      "routes": []
+    },
+    {
+      "id": 4753627875,
+      "lat": 24.4826079,
+      "lon": 54.6175045,
+      "name": "Stop 4753627875",
+      "name_en": "Stop 4753627875",
+      "routes": []
+    },
+    {
+      "id": 4753627876,
+      "lat": 24.4844838,
+      "lon": 54.6239777,
+      "name": "Stop 4753627876",
+      "name_en": "Stop 4753627876",
+      "routes": []
+    },
+    {
+      "id": 4753627877,
+      "lat": 24.4862141,
+      "lon": 54.6282299,
+      "name": "Stop 4753627877",
+      "name_en": "Stop 4753627877",
+      "routes": []
+    },
+    {
+      "id": 4756621925,
+      "lat": 24.4306247,
+      "lon": 54.3862498,
+      "name": "Stop 4756621925",
+      "name_en": "Stop 4756621925",
+      "routes": []
+    },
+    {
+      "id": 4758617774,
+      "lat": 24.372705,
+      "lon": 54.5052365,
+      "name": "Stop 4758617774",
+      "name_en": "Stop 4758617774",
+      "routes": []
+    },
+    {
+      "id": 4758748235,
+      "lat": 24.43265,
+      "lon": 54.5745132,
+      "name": "Stop 4758748235",
+      "name_en": "Stop 4758748235",
+      "routes": []
+    },
+    {
+      "id": 4758807830,
+      "lat": 24.4738148,
+      "lon": 54.3485723,
+      "name": "Stop 4758807830",
+      "name_en": "Stop 4758807830",
+      "routes": []
+    },
+    {
+      "id": 4758943951,
+      "lat": 24.4795031,
+      "lon": 54.355706,
+      "name": "Zayed The First St / Qasr Al Hosn",
+      "name_en": "Zayed The First St / Qasr Al Hosn",
+      "routes": []
+    },
+    {
+      "id": 4794738821,
+      "lat": 24.4878442,
+      "lon": 54.364314,
+      "name": "Stop 4794738821",
+      "name_en": "Stop 4794738821",
+      "routes": []
+    },
+    {
+      "id": 4796095324,
+      "lat": 24.3235208,
+      "lon": 54.5351769,
+      "name": "Shabiya 12 takreer bus stop",
+      "name_en": "Shabiya 12 takreer bus stop",
+      "routes": []
+    },
+    {
+      "id": 4798802532,
+      "lat": 24.4532702,
+      "lon": 54.3864983,
+      "name": "Stop 4798802532",
+      "name_en": "Stop 4798802532",
+      "routes": []
+    },
+    {
+      "id": 4807291927,
+      "lat": 24.4745196,
+      "lon": 54.3431386,
+      "name": "Stop 4807291927",
+      "name_en": "Stop 4807291927",
+      "routes": []
+    },
+    {
+      "id": 4834896634,
+      "lat": 24.4899638,
+      "lon": 54.3686488,
+      "name": "Stop 4834896634",
+      "name_en": "X4, X5, 7, 8, 42, 43, 44, 55, 56, 67",
+      "routes": []
+    },
+    {
+      "id": 4855960321,
+      "lat": 24.4959425,
+      "lon": 54.3809952,
+      "name": "Stop 4855960321",
+      "name_en": "Stop 4855960321",
+      "routes": []
+    },
+    {
+      "id": 4867951521,
+      "lat": 24.4553256,
+      "lon": 54.3761821,
+      "name": "44",
+      "name_en": "44",
+      "routes": []
+    },
+    {
+      "id": 4872098023,
+      "lat": 24.475941,
+      "lon": 54.3734069,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 4876087823,
+      "lat": 24.4413843,
+      "lon": 54.3976036,
+      "name": "Stop 4876087823",
+      "name_en": "Stop 4876087823",
+      "routes": []
+    },
+    {
+      "id": 4878605123,
+      "lat": 24.4834311,
+      "lon": 54.3478396,
+      "name": "Stop 4878605123",
+      "name_en": "Stop 4878605123",
+      "routes": []
+    },
+    {
+      "id": 4878605139,
+      "lat": 24.474802,
+      "lon": 54.3224424,
+      "name": "King Salman Bin Abdulaziz Al Saud St / Marina Mall",
+      "name_en": "King Salman Bin Abdulaziz Al Saud St / Marina Mall",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 4878605924,
+      "lat": 24.4851139,
+      "lon": 54.3486433,
+      "name": "Stop 4878605924",
+      "name_en": "Stop 4878605924",
+      "routes": []
+    },
+    {
+      "id": 4880282723,
+      "lat": 24.4421085,
+      "lon": 54.3883384,
+      "name": "Stop 4880282723",
+      "name_en": "Stop 4880282723",
+      "routes": []
+    },
+    {
+      "id": 4880299522,
+      "lat": 24.4428087,
+      "lon": 54.3863645,
+      "name": "Stop 4880299522",
+      "name_en": "Stop 4880299522",
+      "routes": []
+    },
+    {
+      "id": 4883786421,
+      "lat": 24.4781056,
+      "lon": 54.3689727,
+      "name": "Stop 4883786421",
+      "name_en": "Stop 4883786421",
+      "routes": []
+    },
+    {
+      "id": 4894933321,
+      "lat": 24.4801107,
+      "lon": 54.3711499,
+      "name": "Stop 4894933321",
+      "name_en": "Stop 4894933321",
+      "routes": []
+    },
+    {
+      "id": 4931798222,
+      "lat": 24.4331414,
+      "lon": 54.4118712,
+      "name": "Stop 4931798222",
+      "name_en": "Stop 4931798222",
+      "routes": []
+    },
+    {
+      "id": 4949087828,
+      "lat": 24.5209778,
+      "lon": 54.3737534,
+      "name": "Stop 4949087828",
+      "name_en": "Stop 4949087828",
+      "routes": []
+    },
+    {
+      "id": 4949102222,
+      "lat": 24.4914033,
+      "lon": 54.3687927,
+      "name": "Stop 4949102222",
+      "name_en": "Stop 4949102222",
+      "routes": []
+    },
+    {
+      "id": 5084059324,
+      "lat": 24.4343604,
+      "lon": 54.4089143,
+      "name": "Stop 5084059324",
+      "name_en": "Stop 5084059324",
+      "routes": []
+    },
+    {
+      "id": 5084059722,
+      "lat": 24.4319229,
+      "lon": 54.4150305,
+      "name": "Stop 5084059722",
+      "name_en": "Stop 5084059722",
+      "routes": []
+    },
+    {
+      "id": 5104639963,
+      "lat": 24.476833,
+      "lon": 54.3725103,
+      "name": "33, 34, 54, 55, 56, 94, 101, 102, 110, 111, 120, 121, 155, 160, 170, 200, 300, 400, 401, 402, 403, 404, 405, 406, A2, X5",
+      "name_en": "33, 34, 54, 55, 56, 94, 101, 102, 110, 111, 120, 121, 155, 160, 170, 200, 300, 400, 401, 402, 403, 404, 405, 406, 407, A2, X5",
+      "routes": []
+    },
+    {
+      "id": 5112037722,
+      "lat": 24.3715222,
+      "lon": 54.5366149,
+      "name": "Bus Stop to Abu Dhabi",
+      "name_en": "Bus Stop to Abu Dhabi",
+      "routes": []
+    },
+    {
+      "id": 5147489223,
+      "lat": 24.5645953,
+      "lon": 54.6878583,
+      "name": "Stop 5147489223",
+      "name_en": "Stop 5147489223",
+      "routes": []
+    },
+    {
+      "id": 5158223522,
+      "lat": 24.4824334,
+      "lon": 54.3770693,
+      "name": "011, 063",
+      "name_en": "011, 063",
+      "routes": []
+    },
+    {
+      "id": 5200625023,
+      "lat": 24.4584965,
+      "lon": 54.3894709,
+      "name": "54, 56, 94",
+      "name_en": "54, 56, 94",
+      "routes": []
+    },
+    {
+      "id": 5201305121,
+      "lat": 24.4709356,
+      "lon": 54.3610633,
+      "name": "Stop 5201305121",
+      "name_en": "Stop 5201305121",
+      "routes": []
+    },
+    {
+      "id": 5221013427,
+      "lat": 24.4744554,
+      "lon": 54.3423991,
+      "name": "Stop 5221013427",
+      "name_en": "Stop 5221013427",
+      "routes": []
+    },
+    {
+      "id": 5257697821,
+      "lat": 24.53089,
+      "lon": 54.6912236,
+      "name": "Stop 5257697821",
+      "name_en": "Stop 5257697821",
+      "routes": []
+    },
+    {
+      "id": 5302293723,
+      "lat": 24.4418819,
+      "lon": 54.3964682,
+      "name": "Stop 5302293723",
+      "name_en": "Stop 5302293723",
+      "routes": []
+    },
+    {
+      "id": 5358573221,
+      "lat": 24.4526719,
+      "lon": 54.3788135,
+      "name": "Stop 5358573221",
+      "name_en": "Stop 5358573221",
+      "routes": []
+    },
+    {
+      "id": 5426027326,
+      "lat": 24.3302217,
+      "lon": 54.6391948,
+      "name": "Stop 5426027326",
+      "name_en": "Stop 5426027326",
+      "routes": []
+    },
+    {
+      "id": 5729515221,
+      "lat": 24.4826523,
+      "lon": 54.3845373,
+      "name": "Sheikh Zayed Bin Sultan St / Hazaa Bin Zayed St",
+      "name_en": "Sheikh Zayed Bin Sultan St / Hazaa Bin Zayed St",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 5750176021,
+      "lat": 24.4857847,
+      "lon": 54.3627582,
+      "name": "Stop 5750176021",
+      "name_en": "Stop 5750176021",
+      "routes": []
+    },
+    {
+      "id": 5796945023,
+      "lat": 24.4986298,
+      "lon": 54.3800624,
+      "name": "Stop 5796945023",
+      "name_en": "Stop 5796945023",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 6002754288,
+      "lat": 24.4881096,
+      "lon": 54.3644829,
+      "name": "300, 94",
+      "name_en": "Bus stop 300",
+      "routes": []
+    },
+    {
+      "id": 6015330186,
+      "lat": 24.4769052,
+      "lon": 54.3638793,
+      "name": "Stop 6015330186",
+      "name_en": "Stop 6015330186",
+      "routes": []
+    },
+    {
+      "id": 6066370727,
+      "lat": 24.4218938,
+      "lon": 54.4596384,
+      "name": "Stop 6066370727",
+      "name_en": "Stop 6066370727",
+      "routes": []
+    },
+    {
+      "id": 6073334885,
+      "lat": 24.4204634,
+      "lon": 54.4616689,
+      "name": "Khalifa Park - Soccer School Academy (040)",
+      "name_en": "Khalifa Park - Soccer School Academy (040)",
+      "routes": []
+    },
+    {
+      "id": 6116338408,
+      "lat": 24.4566192,
+      "lon": 54.3391031,
+      "name": "Stop 6116338408",
+      "name_en": "Stop 6116338408",
+      "routes": []
+    },
+    {
+      "id": 6116693886,
+      "lat": 24.4786896,
+      "lon": 54.3630136,
+      "name": "Etisalat",
+      "name_en": "Etisalat",
+      "routes": []
+    },
+    {
+      "id": 6116693889,
+      "lat": 24.5347715,
+      "lon": 54.4010584,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116693890,
+      "lat": 24.5282115,
+      "lon": 54.4061968,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116693891,
+      "lat": 24.4771913,
+      "lon": 54.3637403,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116693892,
+      "lat": 24.4733334,
+      "lon": 54.367428,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116693893,
+      "lat": 24.4466206,
+      "lon": 54.400722,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116693896,
+      "lat": 24.4132112,
+      "lon": 54.4694668,
+      "name": "054,300",
+      "name_en": "504,300",
+      "routes": []
+    },
+    {
+      "id": 6116693897,
+      "lat": 24.4175809,
+      "lon": 54.5004714,
+      "name": "54 last",
+      "name_en": "54 last",
+      "routes": []
+    },
+    {
+      "id": 6116693898,
+      "lat": 24.4189608,
+      "lon": 54.4955226,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116693899,
+      "lat": 24.4205447,
+      "lon": 54.4920472,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116693900,
+      "lat": 24.4134313,
+      "lon": 54.4698142,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116693901,
+      "lat": 24.4210004,
+      "lon": 54.4546897,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116693903,
+      "lat": 24.4305797,
+      "lon": 54.4421682,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116693905,
+      "lat": 24.433145,
+      "lon": 54.4118426,
+      "name": "300",
+      "name_en": "300",
+      "routes": []
+    },
+    {
+      "id": 6116694286,
+      "lat": 24.4892189,
+      "lon": 54.3627306,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694287,
+      "lat": 24.4947539,
+      "lon": 54.37061,
+      "name": "Emirates tower",
+      "name_en": "Emirates tower",
+      "routes": []
+    },
+    {
+      "id": 6116694290,
+      "lat": 24.4980779,
+      "lon": 54.3753299,
+      "name": "Hamdan St / Hazaa Bin Zayed Mosque",
+      "name_en": "Hamdan St / Hazaa Bin Zayed Mosque",
+      "routes": [
+        "A1",
+        "5"
+      ]
+    },
+    {
+      "id": 6116694291,
+      "lat": 24.4958972,
+      "lon": 54.3717276,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694292,
+      "lat": 24.4924371,
+      "lon": 54.3667394,
+      "name": "Hamdan St / Fatimah Bint Mubarak St",
+      "name_en": "Hamdan St / Fatimah Bint Mubarak St",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 6116694293,
+      "lat": 24.4894444,
+      "lon": 54.3625296,
+      "name": "5, 33, 41, 65",
+      "name_en": "5, 33, 41, 65",
+      "routes": []
+    },
+    {
+      "id": 6116694294,
+      "lat": 24.4885699,
+      "lon": 54.3612753,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694295,
+      "lat": 24.4838971,
+      "lon": 54.3576108,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694296,
+      "lat": 24.481463,
+      "lon": 54.3597202,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694297,
+      "lat": 24.4721621,
+      "lon": 54.3685813,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694298,
+      "lat": 24.4631521,
+      "lon": 54.3849547,
+      "name": "Sultan Bin Zayed St / Mohammed Bin Khalifa St",
+      "name_en": "Sultan Bin Zayed St / Mohammed Bin Khalifa St",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 6116694302,
+      "lat": 24.4339978,
+      "lon": 54.428621,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116694303,
+      "lat": 24.4233807,
+      "lon": 54.4514015,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116694304,
+      "lat": 24.419794,
+      "lon": 54.4973214,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116694307,
+      "lat": 24.4143096,
+      "lon": 54.465477,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694308,
+      "lat": 24.4164958,
+      "lon": 54.4610691,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694309,
+      "lat": 24.4222959,
+      "lon": 54.4524543,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694310,
+      "lat": 24.4232575,
+      "lon": 54.4496312,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694311,
+      "lat": 24.4319597,
+      "lon": 54.4407989,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694312,
+      "lat": 24.4333548,
+      "lon": 54.4365934,
+      "name": "44 54 56 94",
+      "name_en": "44 54 56 94",
+      "routes": []
+    },
+    {
+      "id": 6116694314,
+      "lat": 24.4384714,
+      "lon": 54.415042,
+      "name": "094",
+      "name_en": "094",
+      "routes": []
+    },
+    {
+      "id": 6116694315,
+      "lat": 24.4554176,
+      "lon": 54.3929842,
+      "name": "094",
+      "name_en": "094",
+      "routes": []
+    },
+    {
+      "id": 6116694316,
+      "lat": 24.456135,
+      "lon": 54.3836831,
+      "name": "300",
+      "name_en": "300",
+      "routes": []
+    },
+    {
+      "id": 6116694318,
+      "lat": 24.4132252,
+      "lon": 54.4694506,
+      "name": "21, 22, 23,44,94,103,161,175,x4, x5",
+      "name_en": "21,22,23,44,94,103,161,175,x4,x5",
+      "routes": []
+    },
+    {
+      "id": 6116694485,
+      "lat": 24.4910414,
+      "lon": 54.3648533,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694586,
+      "lat": 24.4525613,
+      "lon": 54.3951026,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116694587,
+      "lat": 24.4424929,
+      "lon": 54.4046242,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116694588,
+      "lat": 24.4384086,
+      "lon": 54.4139437,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116694589,
+      "lat": 24.4334844,
+      "lon": 54.4320805,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116694590,
+      "lat": 24.4331098,
+      "lon": 54.4344776,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116694591,
+      "lat": 24.4084276,
+      "lon": 54.475899,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694592,
+      "lat": 24.4350044,
+      "lon": 54.4253256,
+      "name": "094",
+      "name_en": "094",
+      "routes": []
+    },
+    {
+      "id": 6116694593,
+      "lat": 24.4447266,
+      "lon": 54.4031447,
+      "name": "094",
+      "name_en": "094",
+      "routes": []
+    },
+    {
+      "id": 6116694594,
+      "lat": 24.4470624,
+      "lon": 54.4009242,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 6116694595,
+      "lat": 24.4476449,
+      "lon": 54.3913739,
+      "name": "300",
+      "name_en": "300",
+      "routes": []
+    },
+    {
+      "id": 6116695685,
+      "lat": 24.4404466,
+      "lon": 54.4088375,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116695885,
+      "lat": 24.4204569,
+      "lon": 54.4919585,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116695886,
+      "lat": 24.418107,
+      "lon": 54.5006358,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6116695887,
+      "lat": 24.419928,
+      "lon": 54.497395,
+      "name": "54",
+      "name_en": "54",
+      "routes": []
+    },
+    {
+      "id": 6124924386,
+      "lat": 24.4084056,
+      "lon": 54.4759186,
+      "name": "Bus 94 to city",
+      "name_en": "Bus 94 to city",
+      "routes": []
+    },
+    {
+      "id": 6128514485,
+      "lat": 24.4949016,
+      "lon": 54.3760279,
+      "name": "Stop 6128514485",
+      "name_en": "Stop 6128514485",
+      "routes": []
+    },
+    {
+      "id": 6137563686,
+      "lat": 24.4882954,
+      "lon": 54.3802674,
+      "name": "Sheikh Zayed Bin Sultan St / Abu Dhabi Municipality",
+      "name_en": "Sheikh Zayed Bin Sultan St / Abu Dhabi Municipality",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 6137563687,
+      "lat": 24.4953872,
+      "lon": 54.3737057,
+      "name": "Sheikh Zayed Bin Sultan St / Hamdan St",
+      "name_en": "Sheikh Zayed Bin Sultan St / Hamdan St",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 6137563688,
+      "lat": 24.4924218,
+      "lon": 54.3761187,
+      "name": "Sheikh Zayed Bin Sultan St / Al Mawkib St",
+      "name_en": "Sheikh Zayed Bin Sultan St / Al Mawkib St",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 6137563689,
+      "lat": 24.490291,
+      "lon": 54.3779496,
+      "name": "Sheikh Zayed Bin Sultan St / Al Reem St",
+      "name_en": "Sheikh Zayed Bin Sultan St / Al Reem St",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 6137564286,
+      "lat": 24.49305,
+      "lon": 54.3762767,
+      "name": "Sheikh Zayed Bin Sultan St / Al Mawkib St",
+      "name_en": "Sheikh Zayed Bin Sultan St / Al Mawkib St",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 6137564287,
+      "lat": 24.4904581,
+      "lon": 54.3784417,
+      "name": "Sheikh Zayed Bin Sultan St / Al Reem St",
+      "name_en": "Sheikh Zayed Bin Sultan St / Al Reem St",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 6137564288,
+      "lat": 24.4937529,
+      "lon": 54.3822684,
+      "name": "Al Zahiyah St / Khalifa Residential Complex",
+      "name_en": "Al Zahiyah St / Khalifa Residential Complex",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 6137566485,
+      "lat": 24.4951055,
+      "lon": 54.3745361,
+      "name": "Sheikh Zayed Bin Sultan St / Hamdan St",
+      "name_en": "Sheikh Zayed Bin Sultan St / Hamdan St",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 6193257988,
+      "lat": 24.4848273,
+      "lon": 54.3614283,
+      "name": "Bus 07 08 34 42 43 44 67 Stop",
+      "name_en": "Bus 07 08 34 42 43 44 67 Stop",
+      "routes": []
+    },
+    {
+      "id": 6193257989,
+      "lat": 24.4369428,
+      "lon": 54.417592,
+      "name": "Bus 94 to Grand Mosque",
+      "name_en": "Bus 94 to Grand Mosque",
+      "routes": []
+    },
+    {
+      "id": 6193258286,
+      "lat": 24.4600226,
+      "lon": 54.3245476,
+      "name": "\u062d\u0627\u0641\u0644\u0629 07 09 20 67 69 71",
+      "name_en": "Bus 07 09 20 67 69 71",
+      "routes": []
+    },
+    {
+      "id": 6197825186,
+      "lat": 24.4739284,
+      "lon": 54.3483007,
+      "name": "Stop 6197825186",
+      "name_en": "5, 7, 21, 22, 40, 65, 67, 161, 175",
+      "routes": []
+    },
+    {
+      "id": 6198203189,
+      "lat": 24.4549799,
+      "lon": 54.3761555,
+      "name": "Al Karamah Al Shohub school B02418: 043, 044",
+      "name_en": "Al Karamah Al Shohub school B02418: 043, 044",
+      "routes": []
+    },
+    {
+      "id": 6214329685,
+      "lat": 24.408533,
+      "lon": 54.4758837,
+      "name": "Bus Stop Line 94 (turn)",
+      "name_en": "Bus Stop Line 94 (turn)",
+      "routes": []
+    },
+    {
+      "id": 6214329686,
+      "lat": 24.4069358,
+      "lon": 54.505417,
+      "name": "Bus no 21",
+      "name_en": "Bus no 21",
+      "routes": []
+    },
+    {
+      "id": 6521216744,
+      "lat": 24.4261831,
+      "lon": 54.6457103,
+      "name": "Abu Dhabi Int'l Airport Terminal 1+3",
+      "name_en": "Abu Dhabi Int'l Airport Terminal 1+3",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 6521216747,
+      "lat": 24.4266087,
+      "lon": 54.6452774,
+      "name": "Abu Dhabi International Airport Terminal 1+3",
+      "name_en": "Abu Dhabi International Airport Terminal 1+3",
+      "routes": []
+    },
+    {
+      "id": 6543042037,
+      "lat": 24.4938252,
+      "lon": 54.3994541,
+      "name": "Stop 6543042037",
+      "name_en": "Stop 6543042037",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 6553156087,
+      "lat": 24.4963656,
+      "lon": 54.3669205,
+      "name": "Stop 6553156087",
+      "name_en": "Ruwais Adnoc Bus",
+      "routes": []
+    },
+    {
+      "id": 6679842286,
+      "lat": 24.3340009,
+      "lon": 54.526479,
+      "name": "Stop 6679842286",
+      "name_en": "Adnoc Free Bus",
+      "routes": []
+    },
+    {
+      "id": 6710419888,
+      "lat": 24.3799954,
+      "lon": 54.5104573,
+      "name": "Stop 6710419888",
+      "name_en": "111",
+      "routes": []
+    },
+    {
+      "id": 6710419889,
+      "lat": 24.370969,
+      "lon": 54.5108542,
+      "name": "Stop 6710419889",
+      "name_en": "111",
+      "routes": []
+    },
+    {
+      "id": 6710422185,
+      "lat": 24.4540204,
+      "lon": 54.3936381,
+      "name": "Sultan Bin Zayed St / Al Jazeera Sports Club",
+      "name_en": "Sultan Bin Zayed St / Al Jazeera Sports Club",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 6710422186,
+      "lat": 24.368583,
+      "lon": 54.5138445,
+      "name": "Stop 6710422186",
+      "name_en": "111, M1, M5",
+      "routes": []
+    },
+    {
+      "id": 6710422485,
+      "lat": 24.3749995,
+      "lon": 54.510665,
+      "name": "Stop 6710422485",
+      "name_en": "111",
+      "routes": []
+    },
+    {
+      "id": 6764242085,
+      "lat": 24.4980684,
+      "lon": 54.405715,
+      "name": "Stop 6764242085",
+      "name_en": "65",
+      "routes": []
+    },
+    {
+      "id": 6780339085,
+      "lat": 24.3601384,
+      "lon": 54.5182448,
+      "name": "Stop 6780339085",
+      "name_en": "Stop 6780339085",
+      "routes": []
+    },
+    {
+      "id": 6795963387,
+      "lat": 24.4870005,
+      "lon": 54.6052975,
+      "name": "Bus stop line 102",
+      "name_en": "Bus stop line 102",
+      "routes": []
+    },
+    {
+      "id": 6874953209,
+      "lat": 24.4084556,
+      "lon": 54.4759341,
+      "name": "Stop 6874953209",
+      "name_en": "Bus stop A18 - Free shuttle to airport",
+      "routes": []
+    },
+    {
+      "id": 6953894809,
+      "lat": 24.5228063,
+      "lon": 54.4342255,
+      "name": "Saadiyat New York University 2",
+      "name_en": "Saadiyat New York University 2",
+      "routes": []
+    },
+    {
+      "id": 7040230516,
+      "lat": 24.3365282,
+      "lon": 54.5383394,
+      "name": "Stop 7040230516",
+      "name_en": "Stop 7040230516",
+      "routes": []
+    },
+    {
+      "id": 7044167785,
+      "lat": 24.3106761,
+      "lon": 54.605537,
+      "name": "BILADAL SHAM PASSENGER TRANSPORT(SAPTCO)",
+      "name_en": "BILADAL SHAM PASSENGER TRANSPORT(SAPTCO Agent)",
+      "routes": []
+    },
+    {
+      "id": 7077530405,
+      "lat": 24.3461099,
+      "lon": 54.5146865,
+      "name": "Stop 7077530405",
+      "name_en": "Stop 7077530405",
+      "routes": []
+    },
+    {
+      "id": 7077578893,
+      "lat": 24.3455457,
+      "lon": 54.5000245,
+      "name": "Stop 7077578893",
+      "name_en": "Stop 7077578893",
+      "routes": []
+    },
+    {
+      "id": 7095392883,
+      "lat": 24.4817331,
+      "lon": 54.3518151,
+      "name": "Stop 7095392883",
+      "name_en": "Stop 7095392883",
+      "routes": []
+    },
+    {
+      "id": 7095394188,
+      "lat": 24.4844433,
+      "lon": 54.3554053,
+      "name": "Stop 7095394188",
+      "name_en": "Stop 7095394188",
+      "routes": []
+    },
+    {
+      "id": 7095394319,
+      "lat": 24.4953416,
+      "lon": 54.3972958,
+      "name": "Stop 7095394319",
+      "name_en": "Stop 7095394319",
+      "routes": []
+    },
+    {
+      "id": 7095394320,
+      "lat": 24.5039129,
+      "lon": 54.3877214,
+      "name": "Stop 7095394320",
+      "name_en": "Jazeerat Al Maryah - 65",
+      "routes": []
+    },
+    {
+      "id": 7095396688,
+      "lat": 24.4983931,
+      "lon": 54.3962254,
+      "name": "Stop 7095396688",
+      "name_en": "65, 67",
+      "routes": []
+    },
+    {
+      "id": 7095415385,
+      "lat": 24.5035398,
+      "lon": 54.3910833,
+      "name": "Stop 7095415385",
+      "name_en": "65",
+      "routes": []
+    },
+    {
+      "id": 7131022085,
+      "lat": 24.4563757,
+      "lon": 54.3123277,
+      "name": "\u0645\u0648\u0642\u0641 \u062d\u0627\u0641\u0644\u0629 34\u060c39",
+      "name_en": "bus stop 34,69",
+      "routes": []
+    },
+    {
+      "id": 7131022086,
+      "lat": 24.4762315,
+      "lon": 54.3446149,
+      "name": "Stop 7131022086",
+      "name_en": "Stop 7131022086",
+      "routes": []
+    },
+    {
+      "id": 7131022185,
+      "lat": 24.4584957,
+      "lon": 54.3192106,
+      "name": "Stop 7131022185",
+      "name_en": "bus stop 34",
+      "routes": []
+    },
+    {
+      "id": 7131022285,
+      "lat": 24.4717957,
+      "lon": 54.3393368,
+      "name": "Stop 7131022285",
+      "name_en": "Stop 7131022285",
+      "routes": []
+    },
+    {
+      "id": 7137279085,
+      "lat": 24.4842429,
+      "lon": 54.3552676,
+      "name": "Al Marina",
+      "name_en": "Al Marina",
+      "routes": []
+    },
+    {
+      "id": 7137279086,
+      "lat": 24.4799317,
+      "lon": 54.3499352,
+      "name": "Stop 7137279086",
+      "name_en": "Stop 7137279086",
+      "routes": []
+    },
+    {
+      "id": 7137279087,
+      "lat": 24.4665528,
+      "lon": 54.3298634,
+      "name": "Stop 7137279087",
+      "name_en": "Stop 7137279087",
+      "routes": []
+    },
+    {
+      "id": 7137279088,
+      "lat": 24.4651736,
+      "lon": 54.3233052,
+      "name": "Stop 7137279088",
+      "name_en": "Stop 7137279088",
+      "routes": []
+    },
+    {
+      "id": 7137279089,
+      "lat": 24.4564909,
+      "lon": 54.3120856,
+      "name": "Stop 7137279089",
+      "name_en": "Stop 7137279089",
+      "routes": []
+    },
+    {
+      "id": 7137279091,
+      "lat": 24.4597574,
+      "lon": 54.3206864,
+      "name": "Stop 7137279091",
+      "name_en": "Stop 7137279091",
+      "routes": []
+    },
+    {
+      "id": 7137279092,
+      "lat": 24.4683318,
+      "lon": 54.3333387,
+      "name": "Stop 7137279092",
+      "name_en": "Stop 7137279092",
+      "routes": []
+    },
+    {
+      "id": 7137279093,
+      "lat": 24.4711801,
+      "lon": 54.3381709,
+      "name": "Stop 7137279093",
+      "name_en": "Stop 7137279093",
+      "routes": []
+    },
+    {
+      "id": 7137279185,
+      "lat": 24.4785852,
+      "lon": 54.348737,
+      "name": "Stop 7137279185",
+      "name_en": "Stop 7137279185",
+      "routes": []
+    },
+    {
+      "id": 7137279285,
+      "lat": 24.4723836,
+      "lon": 54.3463733,
+      "name": "Stop 7137279285",
+      "name_en": "Stop 7137279285",
+      "routes": []
+    },
+    {
+      "id": 7137279286,
+      "lat": 24.4758718,
+      "lon": 54.3230125,
+      "name": "Stop 7137279286",
+      "name_en": "Stop 7137279286",
+      "routes": []
+    },
+    {
+      "id": 7137279287,
+      "lat": 24.4603105,
+      "lon": 54.3208357,
+      "name": "Stop 7137279287",
+      "name_en": "Stop 7137279287",
+      "routes": []
+    },
+    {
+      "id": 7137279385,
+      "lat": 24.4581344,
+      "lon": 54.3189394,
+      "name": "Stop 7137279385",
+      "name_en": "Stop 7137279385",
+      "routes": []
+    },
+    {
+      "id": 7137279485,
+      "lat": 24.4718457,
+      "lon": 54.339287,
+      "name": "Stop 7137279485",
+      "name_en": "Stop 7137279485",
+      "routes": []
+    },
+    {
+      "id": 7174539085,
+      "lat": 24.4971117,
+      "lon": 54.4053772,
+      "name": "Stop 7174539085",
+      "name_en": "Stop 7174539085",
+      "routes": []
+    },
+    {
+      "id": 7174539086,
+      "lat": 24.4955954,
+      "lon": 54.4083422,
+      "name": "Stop 7174539086",
+      "name_en": "Jazeerat Al Reem Al Oud St Gate Towers - 65, 67, 71",
+      "routes": []
+    },
+    {
+      "id": 7174539286,
+      "lat": 24.4753239,
+      "lon": 54.3504586,
+      "name": "Stop 7174539286",
+      "name_en": "Al Hosn: 007, 021, 023, 040, 008, 022, 034, 067",
+      "routes": []
+    },
+    {
+      "id": 7174539287,
+      "lat": 24.4930292,
+      "lon": 54.3734436,
+      "name": "Stop 7174539287",
+      "name_en": "007, 042, 044, 056, 040, 043, 055, 067",
+      "routes": []
+    },
+    {
+      "id": 7174539288,
+      "lat": 24.4956181,
+      "lon": 54.3771087,
+      "name": "Stop 7174539288",
+      "name_en": "007, 042, 056, 044, 040, 043, 067, 055, X4, X5",
+      "routes": []
+    },
+    {
+      "id": 7174539289,
+      "lat": 24.4987656,
+      "lon": 54.388551,
+      "name": "Stop 7174539289",
+      "name_en": "Stop 7174539289",
+      "routes": []
+    },
+    {
+      "id": 7174539290,
+      "lat": 24.4981784,
+      "lon": 54.3944044,
+      "name": "Stop 7174539290",
+      "name_en": "Stop 7174539290",
+      "routes": []
+    },
+    {
+      "id": 7174539485,
+      "lat": 24.4912076,
+      "lon": 54.3708687,
+      "name": "Stop 7174539485",
+      "name_en": "007, 042, 044, 067,",
+      "routes": []
+    },
+    {
+      "id": 7189306489,
+      "lat": 24.497406,
+      "lon": 54.3972274,
+      "name": "Stop 7189306489",
+      "name_en": "65, 67",
+      "routes": []
+    },
+    {
+      "id": 7189306686,
+      "lat": 24.4984549,
+      "lon": 54.3917432,
+      "name": "Stop 7189306686",
+      "name_en": "Stop 7189306686",
+      "routes": []
+    },
+    {
+      "id": 7196104993,
+      "lat": 24.5033773,
+      "lon": 54.3888379,
+      "name": "Stop 7196104993",
+      "name_en": "65",
+      "routes": []
+    },
+    {
+      "id": 7196108886,
+      "lat": 24.4540191,
+      "lon": 54.3942965,
+      "name": "Stop 7196108886",
+      "name_en": "Stop 7196108886",
+      "routes": []
+    },
+    {
+      "id": 7217898185,
+      "lat": 24.4953389,
+      "lon": 54.408519,
+      "name": "Stop 7217898185",
+      "name_en": "Stop 7217898185",
+      "routes": []
+    },
+    {
+      "id": 7217898285,
+      "lat": 24.4786161,
+      "lon": 54.3487353,
+      "name": "Stop 7217898285",
+      "name_en": "Stop 7217898285",
+      "routes": []
+    },
+    {
+      "id": 7220740985,
+      "lat": 24.5003368,
+      "lon": 54.364297,
+      "name": "Big bus - red line stop 2",
+      "name_en": "Big bus - red line stop 2",
+      "routes": []
+    },
+    {
+      "id": 7220740987,
+      "lat": 24.501251,
+      "lon": 54.389751,
+      "name": "Big bus - red line stop 13",
+      "name_en": "Big bus - red line stop 13",
+      "routes": []
+    },
+    {
+      "id": 7220741185,
+      "lat": 24.4725667,
+      "lon": 54.3398583,
+      "name": "Big bus - red line stop 3",
+      "name_en": "Big bus - red line stop 3",
+      "routes": []
+    },
+    {
+      "id": 7220741186,
+      "lat": 24.4753935,
+      "lon": 54.3227611,
+      "name": "Big bus - red line stop 6",
+      "name_en": "Big bus - red line stop 6",
+      "routes": []
+    },
+    {
+      "id": 7220741187,
+      "lat": 24.460153,
+      "lon": 54.3206466,
+      "name": "Big bus - red line stop 9, 34, 69",
+      "name_en": "Big bus - red line stop 9, 34, 69",
+      "routes": []
+    },
+    {
+      "id": 7220741188,
+      "lat": 24.4087837,
+      "lon": 54.4753085,
+      "name": "Big bus - green line stop 17",
+      "name_en": "Big bus - green line stop 17",
+      "routes": []
+    },
+    {
+      "id": 7220741386,
+      "lat": 24.4771351,
+      "lon": 54.3309633,
+      "name": "Big bus - red line stop 5",
+      "name_en": "Big bus - red line stop 5",
+      "routes": []
+    },
+    {
+      "id": 7220741387,
+      "lat": 24.4732881,
+      "lon": 54.3164472,
+      "name": "Big bus - red line stop 7",
+      "name_en": "Big bus - red line stop 7",
+      "routes": []
+    },
+    {
+      "id": 7220741388,
+      "lat": 24.4653474,
+      "lon": 54.3228382,
+      "name": "Big bus - red line stop 8",
+      "name_en": "Big bus - red line stop 8",
+      "routes": []
+    },
+    {
+      "id": 7220741389,
+      "lat": 24.4966581,
+      "lon": 54.3816015,
+      "name": "Al Maaiyani St /Abu Dhabi Mall",
+      "name_en": "Al Maaiyani St /Abu Dhabi Mall",
+      "routes": [
+        "A1",
+        "407"
+      ]
+    },
+    {
+      "id": 7220741390,
+      "lat": 24.5318231,
+      "lon": 54.4018178,
+      "name": "Big bus - green line stop 15",
+      "name_en": "Big bus - green line stop 15",
+      "routes": []
+    },
+    {
+      "id": 7220741885,
+      "lat": 24.4564211,
+      "lon": 54.3123186,
+      "name": "Big bus - red line stop 10",
+      "name_en": "Big bus - red line stop 10",
+      "routes": []
+    },
+    {
+      "id": 7220741886,
+      "lat": 24.48874,
+      "lon": 54.3568592,
+      "name": "Big bus - red line stop 12",
+      "name_en": "Big bus - red line stop 12",
+      "routes": []
+    },
+    {
+      "id": 7220742085,
+      "lat": 24.4912453,
+      "lon": 54.6098696,
+      "name": "Big bus - green line stop 16",
+      "name_en": "Big bus - green line stop 16",
+      "routes": []
+    },
+    {
+      "id": 7236228485,
+      "lat": 24.3645489,
+      "lon": 54.5211378,
+      "name": "Stop 7236228485",
+      "name_en": "Mussafah Mar Thoma Church - 111, M1, M5",
+      "routes": []
+    },
+    {
+      "id": 7236228585,
+      "lat": 24.3690593,
+      "lon": 54.5136403,
+      "name": "Stop 7236228585",
+      "name_en": "Mussafah St 10... - 111, M1, M5",
+      "routes": []
+    },
+    {
+      "id": 7236228685,
+      "lat": 24.3709477,
+      "lon": 54.5113344,
+      "name": "Stop 7236228685",
+      "name_en": "Mussafah St 15 Emirates Transport - 111, M1, M5",
+      "routes": []
+    },
+    {
+      "id": 7236228885,
+      "lat": 24.4008664,
+      "lon": 54.4969921,
+      "name": "Khaleej Al Arabi St / Bus Interchange",
+      "name_en": "Khaleej Al Arabi St / Bus Interchange",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 7236228985,
+      "lat": 24.4538082,
+      "lon": 54.3944946,
+      "name": "Stop 7236228985",
+      "name_en": "101, 102, 110, 111, ... A2",
+      "routes": []
+    },
+    {
+      "id": 7236660159,
+      "lat": 24.499501,
+      "lon": 54.4039789,
+      "name": "Marina Bay Bus Stop - 65",
+      "name_en": "Marina Bay Bus Stop - 65",
+      "routes": []
+    },
+    {
+      "id": 7276535096,
+      "lat": 24.4818316,
+      "lon": 54.3684442,
+      "name": "94",
+      "name_en": "94",
+      "routes": []
+    },
+    {
+      "id": 7513785245,
+      "lat": 24.5448019,
+      "lon": 54.4365074,
+      "name": "Stop 7513785245",
+      "name_en": "Stop 7513785245",
+      "routes": []
+    },
+    {
+      "id": 7513814976,
+      "lat": 24.5435427,
+      "lon": 54.4347554,
+      "name": "Park Hyatt Hotel 2",
+      "name_en": "Park Hyatt Hotel 2",
+      "routes": []
+    },
+    {
+      "id": 7513814977,
+      "lat": 24.5420684,
+      "lon": 54.4330403,
+      "name": "Stop 7513814977",
+      "name_en": "Stop 7513814977",
+      "routes": []
+    },
+    {
+      "id": 7513814979,
+      "lat": 24.5414537,
+      "lon": 54.4314675,
+      "name": "Park Hyatt Hotel 1",
+      "name_en": "Park Hyatt Hotel 1",
+      "routes": []
+    },
+    {
+      "id": 7513814980,
+      "lat": 24.5406689,
+      "lon": 54.4305894,
+      "name": "Stop 7513814980",
+      "name_en": "Stop 7513814980",
+      "routes": []
+    },
+    {
+      "id": 7513814981,
+      "lat": 24.5403397,
+      "lon": 54.4299102,
+      "name": "Saadiyat Rotana Hotel",
+      "name_en": "Saadiyat Rotana Hotel",
+      "routes": []
+    },
+    {
+      "id": 7518047377,
+      "lat": 24.5281365,
+      "lon": 54.4188916,
+      "name": "Stop 7518047377",
+      "name_en": "Stop 7518047377",
+      "routes": [
+        "170"
+      ]
+    },
+    {
+      "id": 7521809167,
+      "lat": 24.5213706,
+      "lon": 54.4357817,
+      "name": "Saadiyat New York University 3",
+      "name_en": "Saadiyat New York University 3",
+      "routes": []
+    },
+    {
+      "id": 7521809168,
+      "lat": 24.5240892,
+      "lon": 54.4328543,
+      "name": "Saadiyat New York University 1 / Laffan St",
+      "name_en": "Saadiyat New York University 1 / Laffan St",
+      "routes": []
+    },
+    {
+      "id": 7540369485,
+      "lat": 24.5190412,
+      "lon": 54.3754979,
+      "name": "Stop 7540369485",
+      "name_en": "9, 11, 44, 56",
+      "routes": []
+    },
+    {
+      "id": 7540672692,
+      "lat": 24.5141164,
+      "lon": 54.375134,
+      "name": "Stop 7540672692",
+      "name_en": "Stop 7540672692",
+      "routes": []
+    },
+    {
+      "id": 7540672881,
+      "lat": 24.5153424,
+      "lon": 54.378965,
+      "name": "Stop 7540672881",
+      "name_en": "Stop 7540672881",
+      "routes": []
+    },
+    {
+      "id": 7788171285,
+      "lat": 24.4675595,
+      "lon": 54.3407808,
+      "name": "Stop 7788171285",
+      "name_en": "Stop 7788171285",
+      "routes": []
+    },
+    {
+      "id": 7788175685,
+      "lat": 24.4658586,
+      "lon": 54.3405991,
+      "name": "Stop 7788175685",
+      "name_en": "Bus Stop",
+      "routes": []
+    },
+    {
+      "id": 7813593385,
+      "lat": 24.4513187,
+      "lon": 54.3606082,
+      "name": "Stop 7813593385",
+      "name_en": "Bus Stop",
+      "routes": []
+    },
+    {
+      "id": 7820916385,
+      "lat": 24.4775717,
+      "lon": 54.6028337,
+      "name": "Stop 7820916385",
+      "name_en": "Marina Circuit North Bus Stop",
+      "routes": []
+    },
+    {
+      "id": 7820921285,
+      "lat": 24.4790595,
+      "lon": 54.603932,
+      "name": "Stop 7820921285",
+      "name_en": "Bus Stop 19604A",
+      "routes": []
+    },
+    {
+      "id": 7820927885,
+      "lat": 24.4824808,
+      "lon": 54.6032946,
+      "name": "Stop 7820927885",
+      "name_en": "Bus Stop",
+      "routes": []
+    },
+    {
+      "id": 8070496685,
+      "lat": 24.3308984,
+      "lon": 54.5349637,
+      "name": "Stop 8070496685",
+      "name_en": "Bus Stop",
+      "routes": []
+    },
+    {
+      "id": 8177421017,
+      "lat": 24.3427523,
+      "lon": 54.5537707,
+      "name": "Stop 8177421017",
+      "name_en": "M1, M2 Bus stop",
+      "routes": []
+    },
+    {
+      "id": 8177421117,
+      "lat": 24.3429209,
+      "lon": 54.5533669,
+      "name": "Stop 8177421117",
+      "name_en": "M1, M2 Bus Stop",
+      "routes": []
+    },
+    {
+      "id": 8319582417,
+      "lat": 24.3270031,
+      "lon": 54.5352189,
+      "name": "Stop 8319582417",
+      "name_en": "Bus Stop 10078A",
+      "routes": []
+    },
+    {
+      "id": 8422018334,
+      "lat": 24.4932904,
+      "lon": 54.3851484,
+      "name": "Stop 8422018334",
+      "name_en": "Stop 8422018334",
+      "routes": []
+    },
+    {
+      "id": 9463174721,
+      "lat": 24.3728753,
+      "lon": 54.4962202,
+      "name": "Stop 9463174721",
+      "name_en": "M4",
+      "routes": []
+    },
+    {
+      "id": 9463174818,
+      "lat": 24.365494,
+      "lon": 54.5247385,
+      "name": "Stop 9463174818",
+      "name_en": "Mussafah ADNOC ... - 111, M1, M5",
+      "routes": []
+    },
+    {
+      "id": 9463174920,
+      "lat": 24.3723802,
+      "lon": 54.4950885,
+      "name": "Stop 9463174920",
+      "name_en": "MBZ CITY St 79, Mazyad Mall - M4",
+      "routes": []
+    },
+    {
+      "id": 9463174924,
+      "lat": 24.3692841,
+      "lon": 54.5182231,
+      "name": "Stop 9463174924",
+      "name_en": "Mussafah St10 ... - 111, M1, M5",
+      "routes": []
+    },
+    {
+      "id": 9463174926,
+      "lat": 24.4913427,
+      "lon": 54.3623258,
+      "name": "Stop 9463174926",
+      "name_en": "111",
+      "routes": []
+    },
+    {
+      "id": 9465637217,
+      "lat": 24.4984362,
+      "lon": 54.3945737,
+      "name": "Stop 9465637217",
+      "name_en": "67",
+      "routes": []
+    },
+    {
+      "id": 9465637317,
+      "lat": 24.4988773,
+      "lon": 54.3900072,
+      "name": "Al Maryah St / The Galleria Al Maryah Island",
+      "name_en": "Al Maryah St / The Galleria Al Maryah Island",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 9465637419,
+      "lat": 24.5176544,
+      "lon": 54.377605,
+      "name": "Stop 9465637419",
+      "name_en": "44",
+      "routes": []
+    },
+    {
+      "id": 9465637618,
+      "lat": 24.503259,
+      "lon": 54.3759262,
+      "name": "Stop 9465637618",
+      "name_en": "44",
+      "routes": []
+    },
+    {
+      "id": 9465637717,
+      "lat": 24.5012097,
+      "lon": 54.3777608,
+      "name": "Stop 9465637717",
+      "name_en": "8, 9, 11, 41, 43, 44, 54, 55, 56",
+      "routes": []
+    },
+    {
+      "id": 9465849758,
+      "lat": 24.5298049,
+      "lon": 54.3801138,
+      "name": "Stop 9465849758",
+      "name_en": "Zayed Port Cruise Terminal - 9, 44",
+      "routes": []
+    },
+    {
+      "id": 9488744520,
+      "lat": 24.3820332,
+      "lon": 54.508243,
+      "name": "Stop 9488744520",
+      "name_en": "M2",
+      "routes": []
+    },
+    {
+      "id": 9488779517,
+      "lat": 24.491078,
+      "lon": 54.3621789,
+      "name": "Stop 9488779517",
+      "name_en": "110, 111",
+      "routes": []
+    },
+    {
+      "id": 9519297017,
+      "lat": 24.4816847,
+      "lon": 54.3681176,
+      "name": "Stop 9519297017",
+      "name_en": "33, 34 54, 55, 56, 94",
+      "routes": []
+    },
+    {
+      "id": 9544640317,
+      "lat": 24.3659285,
+      "lon": 54.5013173,
+      "name": "Stop 9544640317",
+      "name_en": "Stop 9544640317",
+      "routes": []
+    },
+    {
+      "id": 9643117209,
+      "lat": 24.469964,
+      "lon": 54.3773791,
+      "name": "Busses to Dubai",
+      "name_en": "Busses to Dubai",
+      "routes": []
+    },
+    {
+      "id": 9701503117,
+      "lat": 24.4963697,
+      "lon": 54.3800464,
+      "name": "Al Zahiyah St / Al Diar Dana Hotel",
+      "name_en": "Al Zahiyah St / Al Diar Dana Hotel",
+      "routes": [
+        "A1",
+        "5"
+      ]
+    },
+    {
+      "id": 9754521017,
+      "lat": 24.4990394,
+      "lon": 54.3684359,
+      "name": "Stop 9754521017",
+      "name_en": "Last stop of A2",
+      "routes": []
+    },
+    {
+      "id": 9766494170,
+      "lat": 24.4266669,
+      "lon": 54.6461886,
+      "name": "Stop 9766494170",
+      "name_en": "Stop 9766494170",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 10075547592,
+      "lat": 24.5222854,
+      "lon": 54.434488,
+      "name": "Saadiyat New York University 2",
+      "name_en": "Saadiyat New York University 2",
+      "routes": []
+    },
+    {
+      "id": 10075547593,
+      "lat": 24.5238079,
+      "lon": 54.4328672,
+      "name": "Saadiyat New York University 1 / Laffan St",
+      "name_en": "Saadiyat New York University 1 / Laffan St",
+      "routes": []
+    },
+    {
+      "id": 10077580669,
+      "lat": 24.4566705,
+      "lon": 54.6169383,
+      "name": "Al Zeina",
+      "name_en": "Al Zeina",
+      "routes": []
+    },
+    {
+      "id": 10143278075,
+      "lat": 24.4876653,
+      "lon": 54.4015002,
+      "name": "Stop 10143278075",
+      "name_en": "Stop 10143278075",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 10171208468,
+      "lat": 24.4079143,
+      "lon": 54.5704602,
+      "name": "Stop 10171208468",
+      "name_en": "Stop 10171208468",
+      "routes": []
+    },
+    {
+      "id": 10187694217,
+      "lat": 24.3999177,
+      "lon": 54.4968777,
+      "name": "Khaleej Al Arabi St / Bus Interchange",
+      "name_en": "Khaleej Al Arabi St / Bus Interchange",
+      "routes": [
+        "A1",
+        "407"
+      ]
+    },
+    {
+      "id": 10325385310,
+      "lat": 24.4888725,
+      "lon": 54.3671621,
+      "name": "Stop 10325385310",
+      "name_en": "7, 8, 42, 43, 44, 55, 56, 67",
+      "routes": []
+    },
+    {
+      "id": 10328510509,
+      "lat": 24.4913996,
+      "lon": 54.36224,
+      "name": "Stop 10328510509",
+      "name_en": "A2, 102, 110, 111, 155, 160, 300, 401, 404, 405",
+      "routes": []
+    },
+    {
+      "id": 10699457138,
+      "lat": 24.4770353,
+      "lon": 54.3801114,
+      "name": "Stop 10699457138",
+      "name_en": "Stop 10699457138",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 10749969313,
+      "lat": 24.4330522,
+      "lon": 54.6041068,
+      "name": "Stop 10749969313",
+      "name_en": "Stop 10749969313",
+      "routes": []
+    },
+    {
+      "id": 10749981812,
+      "lat": 24.4351506,
+      "lon": 54.6030446,
+      "name": "Stop 10749981812",
+      "name_en": "K6",
+      "routes": []
+    },
+    {
+      "id": 10864182235,
+      "lat": 24.2940867,
+      "lon": 54.6280561,
+      "name": "Stop 10864182235",
+      "name_en": "Stop 10864182235",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135117824,
+      "lat": 24.4935549,
+      "lon": 54.383334,
+      "name": "Stop 11135117824",
+      "name_en": "Stop 11135117824",
+      "routes": [
+        "A1",
+        "407"
+      ]
+    },
+    {
+      "id": 11135117829,
+      "lat": 24.4979482,
+      "lon": 54.3746846,
+      "name": "Stop 11135117829",
+      "name_en": "Stop 11135117829",
+      "routes": [
+        "A1",
+        "407"
+      ]
+    },
+    {
+      "id": 11135117830,
+      "lat": 24.4954543,
+      "lon": 54.3738137,
+      "name": "Stop 11135117830",
+      "name_en": "Stop 11135117830",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135117832,
+      "lat": 24.4925054,
+      "lon": 54.3762432,
+      "name": "Stop 11135117832",
+      "name_en": "Stop 11135117832",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135117834,
+      "lat": 24.4903609,
+      "lon": 54.3780625,
+      "name": "Stop 11135117834",
+      "name_en": "Stop 11135117834",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135117835,
+      "lat": 24.4854478,
+      "lon": 54.3824317,
+      "name": "Stop 11135117835",
+      "name_en": "Stop 11135117835",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135117836,
+      "lat": 24.4827347,
+      "lon": 54.3846484,
+      "name": "Stop 11135117836",
+      "name_en": "Stop 11135117836",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135117849,
+      "lat": 24.4000191,
+      "lon": 54.4969047,
+      "name": "Stop 11135117849",
+      "name_en": "Stop 11135117849",
+      "routes": [
+        "A1",
+        "407"
+      ]
+    },
+    {
+      "id": 11135117855,
+      "lat": 24.4262526,
+      "lon": 54.6457818,
+      "name": "Stop 11135117855",
+      "name_en": "Stop 11135117855",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135159520,
+      "lat": 24.4934862,
+      "lon": 54.3833678,
+      "name": "Al Zahiyah / Ghurair Al Ojaan Mosque",
+      "name_en": "Al Zahiyah / Ghurair Al Ojaan Mosque",
+      "routes": [
+        "A1",
+        "407"
+      ]
+    },
+    {
+      "id": 11135159521,
+      "lat": 24.426567,
+      "lon": 54.645201,
+      "name": "Stop 11135159521",
+      "name_en": "Stop 11135159521",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135159522,
+      "lat": 24.4264869,
+      "lon": 54.6451777,
+      "name": "Abu Dhabi Int'l Airport Terminal 1+3",
+      "name_en": "Abu Dhabi Int'l Airport Terminal 1+3",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135159526,
+      "lat": 24.4008018,
+      "lon": 54.4969758,
+      "name": "Stop 11135159526",
+      "name_en": "Stop 11135159526",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135159543,
+      "lat": 24.488231,
+      "lon": 54.3801677,
+      "name": "Stop 11135159543",
+      "name_en": "Stop 11135159543",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135159545,
+      "lat": 24.4903972,
+      "lon": 54.3783467,
+      "name": "Stop 11135159545",
+      "name_en": "Stop 11135159545",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135159546,
+      "lat": 24.4929859,
+      "lon": 54.3761682,
+      "name": "Stop 11135159546",
+      "name_en": "Stop 11135159546",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135159547,
+      "lat": 24.4950581,
+      "lon": 54.37446,
+      "name": "Stop 11135159547",
+      "name_en": "Stop 11135159547",
+      "routes": [
+        "A1"
+      ]
+    },
+    {
+      "id": 11135159548,
+      "lat": 24.4980498,
+      "lon": 54.3751394,
+      "name": "Stop 11135159548",
+      "name_en": "Stop 11135159548",
+      "routes": [
+        "A1",
+        "5"
+      ]
+    },
+    {
+      "id": 11135159549,
+      "lat": 24.4988618,
+      "lon": 54.3781007,
+      "name": "Stop 11135159549",
+      "name_en": "Stop 11135159549",
+      "routes": [
+        "A1",
+        "5"
+      ]
+    },
+    {
+      "id": 11135159550,
+      "lat": 24.4988015,
+      "lon": 54.3780172,
+      "name": "Al Zahiyah St / Zayed The First St",
+      "name_en": "Al Zahiyah St / Zayed The First St",
+      "routes": [
+        "A1",
+        "5"
+      ]
+    },
+    {
+      "id": 11135159552,
+      "lat": 24.4964218,
+      "lon": 54.3801571,
+      "name": "Stop 11135159552",
+      "name_en": "Stop 11135159552",
+      "routes": [
+        "A1",
+        "5"
+      ]
+    },
+    {
+      "id": 11135199392,
+      "lat": 24.4966134,
+      "lon": 54.3815377,
+      "name": "Stop 11135199392",
+      "name_en": "Stop 11135199392",
+      "routes": [
+        "A1",
+        "407"
+      ]
+    },
+    {
+      "id": 11135199393,
+      "lat": 24.4986736,
+      "lon": 54.3801063,
+      "name": "Al Maiyani St / Zayed The First St",
+      "name_en": "Al Maiyani St / Zayed The First St",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135199395,
+      "lat": 24.4948812,
+      "lon": 54.3703905,
+      "name": "Stop 11135199395",
+      "name_en": "Stop 11135199395",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135199400,
+      "lat": 24.492355,
+      "lon": 54.3667999,
+      "name": "Stop 11135199400",
+      "name_en": "Stop 11135199400",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135199401,
+      "lat": 24.4853719,
+      "lon": 54.3658902,
+      "name": "Stop 11135199401",
+      "name_en": "Stop 11135199401",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135207210,
+      "lat": 24.4767392,
+      "lon": 54.3722026,
+      "name": "Stop 11135207210",
+      "name_en": "Stop 11135207210",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135207211,
+      "lat": 24.4699801,
+      "lon": 54.376997,
+      "name": "Stop 11135207211",
+      "name_en": "Stop 11135207211",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135207213,
+      "lat": 24.4631941,
+      "lon": 54.3851201,
+      "name": "Stop 11135207213",
+      "name_en": "Stop 11135207213",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135207218,
+      "lat": 24.4540914,
+      "lon": 54.3937486,
+      "name": "Stop 11135207218",
+      "name_en": "Stop 11135207218",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135225542,
+      "lat": 24.3643341,
+      "lon": 54.5591711,
+      "name": "Stop 11135225542",
+      "name_en": "Stop 11135225542",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135225543,
+      "lat": 24.3642777,
+      "lon": 54.5591154,
+      "name": "ADNOC / Al Shaghameem St",
+      "name_en": "ADNOC / Al Shaghameem St",
+      "routes": []
+    },
+    {
+      "id": 11135225544,
+      "lat": 24.2940407,
+      "lon": 54.6280998,
+      "name": "Msayhan St / Amro Bin Muadh Mosque",
+      "name_en": "Msayhan St / Amro Bin Muadh Mosque",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135225545,
+      "lat": 24.2906149,
+      "lon": 54.6343186,
+      "name": "Stop 11135225545",
+      "name_en": "Stop 11135225545",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135225546,
+      "lat": 24.2905349,
+      "lon": 54.6342559,
+      "name": "Al Tirhab St / ADNOC",
+      "name_en": "Al Tirhab St / ADNOC",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135225547,
+      "lat": 24.287061,
+      "lon": 54.6389806,
+      "name": "Stop 11135225547",
+      "name_en": "Stop 11135225547",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135225548,
+      "lat": 24.2870042,
+      "lon": 54.6389367,
+      "name": "Al Tirhab St / Taxi Station",
+      "name_en": "Al Tirhab St / Taxi Station",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135225549,
+      "lat": 24.2835288,
+      "lon": 54.6436503,
+      "name": "Stop 11135225549",
+      "name_en": "Stop 11135225549",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135225550,
+      "lat": 24.283457,
+      "lon": 54.6435862,
+      "name": "Al Tirhab St /Hamdan Bin Mohamed School",
+      "name_en": "Al Tirhab St /Hamdan Bin Mohamed School",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234511,
+      "lat": 24.276881,
+      "lon": 54.6439207,
+      "name": "Stop 11135234511",
+      "name_en": "Stop 11135234511",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234516,
+      "lat": 24.2769341,
+      "lon": 54.6438201,
+      "name": "Al Dh'oun St / Baniyas Court",
+      "name_en": "Al Dh'oun St / Baniyas Court",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234517,
+      "lat": 24.2740594,
+      "lon": 54.6413182,
+      "name": "Stop 11135234517",
+      "name_en": "Stop 11135234517",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234518,
+      "lat": 24.2741193,
+      "lon": 54.6412356,
+      "name": "Al Dh'oun St / St 42",
+      "name_en": "Al Dh'oun St / St 42",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234519,
+      "lat": 24.2625762,
+      "lon": 54.6307078,
+      "name": "Stop 11135234519",
+      "name_en": "Stop 11135234519",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234520,
+      "lat": 24.2626411,
+      "lon": 54.630688,
+      "name": "Magenta Pearl Village 2",
+      "name_en": "Magenta Pearl Village 2",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234522,
+      "lat": 24.260082,
+      "lon": 54.6271414,
+      "name": "Stop 11135234522",
+      "name_en": "Stop 11135234522",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234523,
+      "lat": 24.260062,
+      "lon": 54.6270805,
+      "name": "MajmuaBin Salem Mosque",
+      "name_en": "MajmuaBin Salem Mosque",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234525,
+      "lat": 24.2535627,
+      "lon": 54.629557,
+      "name": "Stop 11135234525",
+      "name_en": "Stop 11135234525",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234526,
+      "lat": 24.2535441,
+      "lon": 54.6294907,
+      "name": "LifeCare Hospital",
+      "name_en": "LifeCare Hospital",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234537,
+      "lat": 24.2514628,
+      "lon": 54.6275026,
+      "name": "Stop 11135234537",
+      "name_en": "Stop 11135234537",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11135234538,
+      "lat": 24.2515039,
+      "lon": 54.6274915,
+      "name": "Al Raha Shopping Centre",
+      "name_en": "Al Raha Shopping Centre",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11338855457,
+      "lat": 24.4538079,
+      "lon": 54.6403169,
+      "name": "Terminal A",
+      "name_en": "Terminal A",
+      "routes": []
+    },
+    {
+      "id": 11338872793,
+      "lat": 24.4538159,
+      "lon": 54.6406357,
+      "name": "Terminal A",
+      "name_en": "Terminal A",
+      "routes": []
+    },
+    {
+      "id": 11338892351,
+      "lat": 24.4538151,
+      "lon": 54.6404722,
+      "name": "Airport Express Bus",
+      "name_en": "Airport Express Bus",
+      "routes": []
+    },
+    {
+      "id": 11338930784,
+      "lat": 24.4267472,
+      "lon": 54.6451106,
+      "name": "Airport Express Bus",
+      "name_en": "Airport Express Bus",
+      "routes": []
+    },
+    {
+      "id": 11513560815,
+      "lat": 24.3642642,
+      "lon": 54.5590873,
+      "name": "Stop 11513560815",
+      "name_en": "Stop 11513560815",
+      "routes": [
+        "407"
+      ]
+    },
+    {
+      "id": 11522086209,
+      "lat": 24.4908615,
+      "lon": 54.3851311,
+      "name": "Stop 11522086209",
+      "name_en": "Stop 11522086209",
+      "routes": []
+    },
+    {
+      "id": 11527740297,
+      "lat": 24.4935393,
+      "lon": 54.3554607,
+      "name": "Stop 11527740297",
+      "name_en": "Stop 11527740297",
+      "routes": []
+    },
+    {
+      "id": 11586684469,
+      "lat": 24.6897525,
+      "lon": 54.7712553,
+      "name": "Mawasem Park",
+      "name_en": "Mawasem Park",
+      "routes": []
+    },
+    {
+      "id": 11586691869,
+      "lat": 24.6791604,
+      "lon": 54.7791801,
+      "name": "Al Samhah St / Al Mustawda'at St",
+      "name_en": "Al Samhah St / Al Mustawda'at St",
+      "routes": []
+    },
+    {
+      "id": 11586692669,
+      "lat": 24.67731,
+      "lon": 54.7783368,
+      "name": "Al Samhah St / Al Mustawda'at St",
+      "name_en": "Al Samhah St / Al Mustawda'at St",
+      "routes": []
+    },
+    {
+      "id": 11724149068,
+      "lat": 24.4308006,
+      "lon": 54.4188615,
+      "name": "Stop 11724149068",
+      "name_en": "Stop 11724149068",
+      "routes": []
+    },
+    {
+      "id": 11724237769,
+      "lat": 24.4357026,
+      "lon": 54.4065261,
+      "name": "Stop 11724237769",
+      "name_en": "Stop 11724237769",
+      "routes": []
+    },
+    {
+      "id": 11724237770,
+      "lat": 24.4389489,
+      "lon": 54.4006276,
+      "name": "Stop 11724237770",
+      "name_en": "Stop 11724237770",
+      "routes": []
+    },
+    {
+      "id": 11724237771,
+      "lat": 24.4408593,
+      "lon": 54.3986437,
+      "name": "Stop 11724237771",
+      "name_en": "Stop 11724237771",
+      "routes": []
+    },
+    {
+      "id": 11745470183,
+      "lat": 24.4944114,
+      "lon": 54.3643946,
+      "name": "Stop 11745470183",
+      "name_en": "Stop 11745470183",
+      "routes": []
+    },
+    {
+      "id": 11767954999,
+      "lat": 24.5003627,
+      "lon": 54.371521,
+      "name": "Al Meena St/ Corniche Hospital 1",
+      "name_en": "Al Meena St/ Corniche Hospital 1",
+      "routes": [
+        "41",
+        "L41"
+      ]
+    },
+    {
+      "id": 11767955004,
+      "lat": 24.5021111,
+      "lon": 54.372468,
+      "name": "Stop 11767955004",
+      "name_en": "Stop 11767955004",
+      "routes": []
+    },
+    {
+      "id": 11812202000,
+      "lat": 24.4141114,
+      "lon": 54.3476218,
+      "name": "Stop 11812202000",
+      "name_en": "Stop 11812202000",
+      "routes": []
+    },
+    {
+      "id": 11833660958,
+      "lat": 24.4170288,
+      "lon": 54.3305349,
+      "name": "Bab Al Nojoum",
+      "name_en": "Bab Al Nojoum",
+      "routes": []
+    },
+    {
+      "id": 11848699570,
+      "lat": 24.4747461,
+      "lon": 54.3739546,
+      "name": "Stop 11848699570",
+      "name_en": "Stop 11848699570",
+      "routes": []
+    },
+    {
+      "id": 11901252555,
+      "lat": 24.4146871,
+      "lon": 54.3492649,
+      "name": "Marsana Beach",
+      "name_en": "Marsana Beach",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11901252556,
+      "lat": 24.4147067,
+      "lon": 54.3492058,
+      "name": "Stop 11901252556",
+      "name_en": "Stop 11901252556",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11901770492,
+      "lat": 24.4333545,
+      "lon": 54.3758898,
+      "name": "Shakbout Bin Sultan St / Al Bateen St",
+      "name_en": "Shakbout Bin Sultan St / Al Bateen St",
+      "routes": []
+    },
+    {
+      "id": 11901770494,
+      "lat": 24.4377629,
+      "lon": 54.3739396,
+      "name": "Al Khaleej Al Arabi St / Zaid Bin Al Haritha Mosque",
+      "name_en": "Al Khaleej Al Arabi St / Zaid Bin Al Haritha Mosque",
+      "routes": []
+    },
+    {
+      "id": 11901770497,
+      "lat": 24.4405942,
+      "lon": 54.3710048,
+      "name": "Al Khaleej Al Arabi St / Al Jarneen St",
+      "name_en": "Al Khaleej Al Arabi St / Al Jarneen St",
+      "routes": []
+    },
+    {
+      "id": 11901770508,
+      "lat": 24.4425029,
+      "lon": 54.3691577,
+      "name": "Al Khaleej Al Arabi St / Al Khirayz St",
+      "name_en": "Al Khaleej Al Arabi St / Al Khirayz St",
+      "routes": []
+    },
+    {
+      "id": 11901770510,
+      "lat": 24.4472819,
+      "lon": 54.3645736,
+      "name": "Al Khaleej Al Arabi St / Mohamed Bin Khalifa St",
+      "name_en": "Al Khaleej Al Arabi St / Mohamed Bin Khalifa St",
+      "routes": []
+    },
+    {
+      "id": 11901770537,
+      "lat": 24.4558399,
+      "lon": 54.3687171,
+      "name": "Shk. Fatima bint Mubarak St / Liwa Village",
+      "name_en": "Shk. Fatima bint Mubarak St / Liwa Village",
+      "routes": []
+    },
+    {
+      "id": 11901770539,
+      "lat": 24.4579454,
+      "lon": 54.3713136,
+      "name": "Shk. Fatima bint Mubarak St / Al Karamah St",
+      "name_en": "Shk. Fatima bint Mubarak St / Al Karamah St",
+      "routes": []
+    },
+    {
+      "id": 11901770541,
+      "lat": 24.4615732,
+      "lon": 54.3759744,
+      "name": "Shk. Fatima bint Mubarak St / Khalifa Bin Al Nahyan Foundation",
+      "name_en": "Shk. Fatima bint Mubarak St / Khalifa Bin Al Nahyan Foundation",
+      "routes": []
+    },
+    {
+      "id": 11901770544,
+      "lat": 24.4640516,
+      "lon": 54.3790937,
+      "name": "Shk. Fatima bint Mubarak St / Zayed Educational Campus",
+      "name_en": "Shk. Fatima bint Mubarak St / Zayed Educational Campus",
+      "routes": []
+    },
+    {
+      "id": 11901770546,
+      "lat": 24.4717367,
+      "lon": 54.3776748,
+      "name": "Shk. Fatima bint Mubarak St / Abu Dhabi Bus Station",
+      "name_en": "Shk. Fatima bint Mubarak St / Abu Dhabi Bus Station",
+      "routes": []
+    },
+    {
+      "id": 11901770548,
+      "lat": 24.4753207,
+      "lon": 54.3782517,
+      "name": "Hazaa Bin Zayed St / Higher College of Technology",
+      "name_en": "Hazaa Bin Zayed St / Higher College of Technology",
+      "routes": []
+    },
+    {
+      "id": 11901770550,
+      "lat": 24.4761356,
+      "lon": 54.3793731,
+      "name": "Hazaa Bin Zayed St / Al Jaleel Al Fahim School",
+      "name_en": "Hazaa Bin Zayed St / Al Jaleel Al Fahim School",
+      "routes": []
+    },
+    {
+      "id": 11901770553,
+      "lat": 24.4912157,
+      "lon": 54.3966483,
+      "name": "Stop 11901770553",
+      "name_en": "Stop 11901770553",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11901770554,
+      "lat": 24.4912025,
+      "lon": 54.3967667,
+      "name": "Hazaa Bin Zayed St / Marina Square",
+      "name_en": "Hazaa Bin Zayed St / Marina Square",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11901770556,
+      "lat": 24.4935299,
+      "lon": 54.3998971,
+      "name": "Al Reem St / Al Zaffat St",
+      "name_en": "Al Reem St / Al Zaffat St",
+      "routes": []
+    },
+    {
+      "id": 11901770560,
+      "lat": 24.493265,
+      "lon": 54.4022214,
+      "name": "Al Reem St / Al Zawi St",
+      "name_en": "Al Reem St / Al Zawi St",
+      "routes": []
+    },
+    {
+      "id": 11901779473,
+      "lat": 24.4951436,
+      "lon": 54.408258,
+      "name": "Al Oud St / Gate Towers",
+      "name_en": "Al Oud St / Gate Towers",
+      "routes": []
+    },
+    {
+      "id": 11901779475,
+      "lat": 24.499782,
+      "lon": 54.4104703,
+      "name": "Al Oud St / Beach Towers",
+      "name_en": "Al Oud St / Beach Towers",
+      "routes": []
+    },
+    {
+      "id": 11901779478,
+      "lat": 24.5037899,
+      "lon": 54.4094022,
+      "name": "Al Oud St / Union National Bank",
+      "name_en": "Al Oud St / Union National Bank",
+      "routes": []
+    },
+    {
+      "id": 11901779480,
+      "lat": 24.5080738,
+      "lon": 54.4058544,
+      "name": "Al Oud St / Repton School",
+      "name_en": "Al Oud St / Repton School",
+      "routes": []
+    },
+    {
+      "id": 11901779483,
+      "lat": 24.5098245,
+      "lon": 54.4048691,
+      "name": "Al Oud St / Al Reem Shams",
+      "name_en": "Al Oud St / Al Reem Shams",
+      "routes": []
+    },
+    {
+      "id": 11901779486,
+      "lat": 24.5113703,
+      "lon": 54.4086363,
+      "name": "Al Muqarrab St / Al Reem Shams",
+      "name_en": "Al Muqarrab St / Al Reem Shams",
+      "routes": []
+    },
+    {
+      "id": 11902521959,
+      "lat": 24.5111826,
+      "lon": 54.4075012,
+      "name": "Stop 11902521959",
+      "name_en": "Stop 11902521959",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902521960,
+      "lat": 24.5112182,
+      "lon": 54.4074428,
+      "name": "Al Muqadah St / Al Reem Shams",
+      "name_en": "Al Muqadah St / Al Reem Shams",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902521961,
+      "lat": 24.5114302,
+      "lon": 54.4052373,
+      "name": "Al Reem Shams",
+      "name_en": "Al Reem Shams",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902521962,
+      "lat": 24.5066249,
+      "lon": 54.4062083,
+      "name": "Al Oud St / Repton School",
+      "name_en": "Al Oud St / Repton School",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902521964,
+      "lat": 24.5025426,
+      "lon": 54.4093859,
+      "name": "Al Oud St / Union National Bank",
+      "name_en": "Al Oud St / Union National Bank",
+      "routes": []
+    },
+    {
+      "id": 11902567686,
+      "lat": 24.4952648,
+      "lon": 54.4078328,
+      "name": "Stop 11902567686",
+      "name_en": "Stop 11902567686",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567687,
+      "lat": 24.4953329,
+      "lon": 54.4077844,
+      "name": "Al Oud St / Gate Towers",
+      "name_en": "Al Oud St / Gate Towers",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567688,
+      "lat": 24.4935132,
+      "lon": 54.4027512,
+      "name": "Al Reem St / Al Zawi St",
+      "name_en": "Al Reem St / Al Zawi St",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567689,
+      "lat": 24.4934453,
+      "lon": 54.4026476,
+      "name": "Stop 11902567689",
+      "name_en": "Stop 11902567689",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567690,
+      "lat": 24.493894,
+      "lon": 54.3994844,
+      "name": "Al Reem St / Al Zaffat St",
+      "name_en": "Al Reem St / Al Zaffat St",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567692,
+      "lat": 24.4895581,
+      "lon": 54.3962187,
+      "name": "Stop 11902567692",
+      "name_en": "Stop 11902567692",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567693,
+      "lat": 24.4896029,
+      "lon": 54.3960475,
+      "name": "Hazaa Bin Zayed St / Marina Square",
+      "name_en": "Hazaa Bin Zayed St / Marina Square",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567694,
+      "lat": 24.4770788,
+      "lon": 54.3799717,
+      "name": "Hazza Bin Zayed St / Abd Al Jaleel Al Fahim School",
+      "name_en": "Hazza Bin Zayed St / Abd Al Jaleel Al Fahim School",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567695,
+      "lat": 24.4711042,
+      "lon": 54.3773633,
+      "name": "Sultan Bin Zayed St / Abu Dhabi Bus Station",
+      "name_en": "Sultan Bin Zayed St / Abu Dhabi Bus Station",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567696,
+      "lat": 24.4712762,
+      "lon": 54.3774462,
+      "name": "Stop 11902567696",
+      "name_en": "Stop 11902567696",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567697,
+      "lat": 24.464161,
+      "lon": 54.3787154,
+      "name": "Stop 11902567697",
+      "name_en": "Stop 11902567697",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567698,
+      "lat": 24.4642213,
+      "lon": 54.3786567,
+      "name": "Shk. Fatima bint Mubarak St / Zayed Educational Campus",
+      "name_en": "Shk. Fatima bint Mubarak St / Zayed Educational Campus",
+      "routes": []
+    },
+    {
+      "id": 11902567700,
+      "lat": 24.4607321,
+      "lon": 54.3745063,
+      "name": "Stop 11902567700",
+      "name_en": "Stop 11902567700",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567701,
+      "lat": 24.4608118,
+      "lon": 54.3744334,
+      "name": "Shk. Fatima bint Mubarak St / Khalifa Bin Al Nahyan Foundation",
+      "name_en": "Shk. Fatima bint Mubarak St / Khalifa Bin Al Nahyan Foundation",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567702,
+      "lat": 24.456616,
+      "lon": 54.3692662,
+      "name": "Stop 11902567702",
+      "name_en": "Stop 11902567702",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567703,
+      "lat": 24.456729,
+      "lon": 54.3693206,
+      "name": "Shk. Fatima bint Mubarak St / Liwa Village",
+      "name_en": "Shk. Fatima bint Mubarak St / Liwa Village",
+      "routes": []
+    },
+    {
+      "id": 11902567705,
+      "lat": 24.4494562,
+      "lon": 54.3621352,
+      "name": "Stop 11902567705",
+      "name_en": "Stop 11902567705",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567706,
+      "lat": 24.4493565,
+      "lon": 54.3620109,
+      "name": "Al Khaleej Al Srabi St / Delma St",
+      "name_en": "Al Khaleej Al Srabi St / Delma St",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567707,
+      "lat": 24.4467244,
+      "lon": 54.3647709,
+      "name": "Stop 11902567707",
+      "name_en": "Stop 11902567707",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567708,
+      "lat": 24.4466464,
+      "lon": 54.364675,
+      "name": "Al Khaleej Al Arabi St / Mohamed Bin Khalifa St",
+      "name_en": "Al Khaleej Al Arabi St / Mohamed Bin Khalifa St",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567710,
+      "lat": 24.4423357,
+      "lon": 54.3689932,
+      "name": "Stop 11902567710",
+      "name_en": "Stop 11902567710",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567711,
+      "lat": 24.4422413,
+      "lon": 54.368886,
+      "name": "Al Khaleej Al Arabi St / Al Khirayz St",
+      "name_en": "Al Khaleej Al Arabi St / Al Khirayz St",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567712,
+      "lat": 24.4401875,
+      "lon": 54.3708446,
+      "name": "Al Khaleej Al Arabi St / Al Jarneen St",
+      "name_en": "Al Khaleej Al Arabi St / Al Jarneen St",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567713,
+      "lat": 24.4402975,
+      "lon": 54.3709543,
+      "name": "Stop 11902567713",
+      "name_en": "Stop 11902567713",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567714,
+      "lat": 24.4373701,
+      "lon": 54.3735097,
+      "name": "Al Khaleej Al Arabi St / Zaid Bin Al Haritha Mosque",
+      "name_en": "Al Khaleej Al Arabi St / Zaid Bin Al Haritha Mosque",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567715,
+      "lat": 24.4374424,
+      "lon": 54.3735991,
+      "name": "Stop 11902567715",
+      "name_en": "Stop 11902567715",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567716,
+      "lat": 24.4329862,
+      "lon": 54.3741279,
+      "name": "Stop 11902567716",
+      "name_en": "Stop 11902567716",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567717,
+      "lat": 24.4330675,
+      "lon": 54.374051,
+      "name": "Shakbout Bin Sultan St / Al Bateen St",
+      "name_en": "Shakbout Bin Sultan St / Al Bateen St",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567718,
+      "lat": 24.4173865,
+      "lon": 54.3306009,
+      "name": "Stop 11902567718",
+      "name_en": "Stop 11902567718",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11902567719,
+      "lat": 24.4174136,
+      "lon": 54.3306468,
+      "name": "Bab Al Nojoum",
+      "name_en": "Bab Al Nojoum",
+      "routes": [
+        "73"
+      ]
+    },
+    {
+      "id": 11918628116,
+      "lat": 24.4746548,
+      "lon": 54.3224639,
+      "name": "Stop 11918628116",
+      "name_en": "Stop 11918628116",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628117,
+      "lat": 24.4645486,
+      "lon": 54.3269464,
+      "name": "Stop 11918628117",
+      "name_en": "Stop 11918628117",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628118,
+      "lat": 24.4663775,
+      "lon": 54.3300108,
+      "name": "Stop 11918628118",
+      "name_en": "Stop 11918628118",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628119,
+      "lat": 24.4662702,
+      "lon": 54.3300709,
+      "name": "Al Yazwah St / Corniche St",
+      "name_en": "Al Yazwah St / Corniche St",
+      "routes": []
+    },
+    {
+      "id": 11918628120,
+      "lat": 24.4669227,
+      "lon": 54.3336144,
+      "name": "Stop 11918628120",
+      "name_en": "Stop 11918628120",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628121,
+      "lat": 24.4668951,
+      "lon": 54.3335799,
+      "name": "Corniche St / Nation Towers",
+      "name_en": "Corniche St / Nation Towers",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628122,
+      "lat": 24.4657881,
+      "lon": 54.3346132,
+      "name": "Stop 11918628122",
+      "name_en": "Stop 11918628122",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628123,
+      "lat": 24.4653855,
+      "lon": 54.3348793,
+      "name": "Al Yazwah St / Police Station",
+      "name_en": "Al Yazwah St / Police Station",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628124,
+      "lat": 24.4674718,
+      "lon": 54.3407298,
+      "name": "Zayed The First St / Abu Dhabi Energy Center",
+      "name_en": "Zayed The First St / Abu Dhabi Energy Center",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628125,
+      "lat": 24.4673992,
+      "lon": 54.3405039,
+      "name": "Stop 11918628125",
+      "name_en": "Stop 11918628125",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628126,
+      "lat": 24.470392,
+      "lon": 54.3443383,
+      "name": "Zayed The First St / Khalidiya Park",
+      "name_en": "Zayed The First St / Khalidiya Park",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628127,
+      "lat": 24.4703141,
+      "lon": 54.3441315,
+      "name": "Stop 11918628127",
+      "name_en": "Stop 11918628127",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628128,
+      "lat": 24.4721612,
+      "lon": 54.3464005,
+      "name": "Stop 11918628128",
+      "name_en": "Stop 11918628128",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628129,
+      "lat": 24.4720814,
+      "lon": 54.3464524,
+      "name": "Zayed The First St / Khalidiya Park",
+      "name_en": "Zayed The First St / Khalidiya Park",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628130,
+      "lat": 24.4757006,
+      "lon": 54.3481293,
+      "name": "Mubarak Bin Mohammed St / Hamdan St",
+      "name_en": "Mubarak Bin Mohammed St / Hamdan St",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628131,
+      "lat": 24.4756269,
+      "lon": 54.3480332,
+      "name": "Stop 11918628131",
+      "name_en": "Stop 11918628131",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628132,
+      "lat": 24.4783382,
+      "lon": 54.3490082,
+      "name": "Hamdan St / Al Ayda St",
+      "name_en": "Hamdan St / Al Ayda St",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628133,
+      "lat": 24.4815819,
+      "lon": 54.3519041,
+      "name": "Stop 11918628133",
+      "name_en": "Stop 11918628133",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628134,
+      "lat": 24.4815978,
+      "lon": 54.3520239,
+      "name": "Hamdan St / Al Hisn St",
+      "name_en": "Hamdan St / Al Hisn St",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628139,
+      "lat": 24.4838582,
+      "lon": 54.3552332,
+      "name": "Hamdan St / Emirates Diplomatic Academy",
+      "name_en": "Hamdan St / Emirates Diplomatic Academy",
+      "routes": []
+    },
+    {
+      "id": 11918628140,
+      "lat": 24.4861048,
+      "lon": 54.3582336,
+      "name": "Stop 11918628140",
+      "name_en": "Stop 11918628140",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628141,
+      "lat": 24.4860283,
+      "lon": 54.3582913,
+      "name": "Hamdan St / Central Souq",
+      "name_en": "Hamdan St / Central Souq",
+      "routes": []
+    },
+    {
+      "id": 11918628146,
+      "lat": 24.4881148,
+      "lon": 54.3612507,
+      "name": "Hamdan St / Liwa Center",
+      "name_en": "Hamdan St / Liwa Center",
+      "routes": []
+    },
+    {
+      "id": 11918628147,
+      "lat": 24.4914486,
+      "lon": 54.3659152,
+      "name": "Hamdan St / Ministry of Economy",
+      "name_en": "Hamdan St / Ministry of Economy",
+      "routes": []
+    },
+    {
+      "id": 11918628148,
+      "lat": 24.4936789,
+      "lon": 54.3690636,
+      "name": "Hamdan St / Al Mariah Mall",
+      "name_en": "Hamdan St / Al Mariah Mall",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628149,
+      "lat": 24.4936853,
+      "lon": 54.3689231,
+      "name": "Stop 11918628149",
+      "name_en": "Stop 11918628149",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628150,
+      "lat": 24.4882124,
+      "lon": 54.3611846,
+      "name": "Stop 11918628150",
+      "name_en": "Stop 11918628150",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628151,
+      "lat": 24.4914789,
+      "lon": 54.3657938,
+      "name": "Stop 11918628151",
+      "name_en": "Stop 11918628151",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628152,
+      "lat": 24.4957493,
+      "lon": 54.3718354,
+      "name": "Stop 11918628152",
+      "name_en": "Stop 11918628152",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628153,
+      "lat": 24.4956704,
+      "lon": 54.3718818,
+      "name": "Hamdan St / Shk. Zayed Bin Sultan St",
+      "name_en": "Hamdan St / Shk. Zayed Bin Sultan St",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628155,
+      "lat": 24.493824,
+      "lon": 54.3823563,
+      "name": "Stop 11918628155",
+      "name_en": "Stop 11918628155",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628156,
+      "lat": 24.4916252,
+      "lon": 54.384221,
+      "name": "Stop 11918628156",
+      "name_en": "Stop 11918628156",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628157,
+      "lat": 24.4915697,
+      "lon": 54.3841514,
+      "name": "Al Zahiyah St / Al Reem St",
+      "name_en": "Al Zahiyah St / Al Reem St",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628159,
+      "lat": 24.488588,
+      "lon": 54.3831503,
+      "name": "\u0634\u0627\u0631\u0639 \u0627\u0644\u0641\u0644\u0627\u062d / \u0634\u0627\u0631\u0639 \u0627\u0644\u0634\u064a\u062e \u0632\u0627\u064a\u062f \u0628\u0646 \u0633\u0644\u0637\u0627\u0646",
+      "name_en": "Al Falah St / Shk. Zayed Bin Sultan St",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11918628160,
+      "lat": 24.4885653,
+      "lon": 54.3832612,
+      "name": "Stop 11918628160",
+      "name_en": "Stop 11918628160",
+      "routes": [
+        "5"
+      ]
+    },
+    {
+      "id": 11959255829,
+      "lat": 24.4876955,
+      "lon": 54.4014365,
+      "name": "Al Ghazal St / Reem Mall",
+      "name_en": "Al Ghazal St / Reem Mall",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267595,
+      "lat": 24.4988168,
+      "lon": 54.3900019,
+      "name": "Stop 11959267595",
+      "name_en": "Stop 11959267595",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267616,
+      "lat": 24.4969309,
+      "lon": 54.3784653,
+      "name": "Zayed The First St / Sheikh Hazza Bin Sultan Mosque",
+      "name_en": "Zayed The First St / Sheikh Hazza Bin Sultan Mosque",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267617,
+      "lat": 24.4968924,
+      "lon": 54.3785674,
+      "name": "Stop 11959267617",
+      "name_en": "Stop 11959267617",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267618,
+      "lat": 24.4919647,
+      "lon": 54.371482,
+      "name": "Zayed The First St / City Seasons Al Hamra Hotel",
+      "name_en": "Zayed The First St / City Seasons Al Hamra Hotel",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267619,
+      "lat": 24.4919183,
+      "lon": 54.3715178,
+      "name": "Stop 11959267619",
+      "name_en": "Stop 11959267619",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267620,
+      "lat": 24.4883968,
+      "lon": 54.3665492,
+      "name": "Stop 11959267620",
+      "name_en": "Stop 11959267620",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267621,
+      "lat": 24.4884346,
+      "lon": 54.3665134,
+      "name": "Zayed The First St / Lifeline Hospital",
+      "name_en": "Zayed The First St / Lifeline Hospital",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267622,
+      "lat": 24.4851091,
+      "lon": 54.3618006,
+      "name": "Zayed The First St / NMC Specialty Hospital",
+      "name_en": "Zayed The First St / NMC Specialty Hospital",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267623,
+      "lat": 24.4850921,
+      "lon": 54.3618908,
+      "name": "Stop 11959267623",
+      "name_en": "Stop 11959267623",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267655,
+      "lat": 24.4813939,
+      "lon": 54.3573262,
+      "name": "Zayed The First St / Qasr Al Hosn",
+      "name_en": "Zayed The First St / Qasr Al Hosn",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267656,
+      "lat": 24.4813449,
+      "lon": 54.3574936,
+      "name": "Stop 11959267656",
+      "name_en": "Stop 11959267656",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267671,
+      "lat": 24.476059,
+      "lon": 54.3509233,
+      "name": "Zayed The First St / Sheraton Khalidiya Hotel",
+      "name_en": "Zayed The First St / Sheraton Khalidiya Hotel",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267672,
+      "lat": 24.4760194,
+      "lon": 54.3509605,
+      "name": "Stop 11959267672",
+      "name_en": "Stop 11959267672",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267675,
+      "lat": 24.4714587,
+      "lon": 54.345199,
+      "name": "Zayed The First St / Khalidiya Park",
+      "name_en": "Zayed The First St / Khalidiya Park",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267676,
+      "lat": 24.4714163,
+      "lon": 54.3452355,
+      "name": "Stop 11959267676",
+      "name_en": "Stop 11959267676",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267678,
+      "lat": 24.4681332,
+      "lon": 54.3388347,
+      "name": "Al Bateen St / Sheikha Fatima Park",
+      "name_en": "Al Bateen St / Sheikha Fatima Park",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 11959267679,
+      "lat": 24.4681028,
+      "lon": 54.3387957,
+      "name": "Stop 11959267679",
+      "name_en": "Stop 11959267679",
+      "routes": [
+        "ART"
+      ]
+    },
+    {
+      "id": 12035185269,
+      "lat": 24.4701795,
+      "lon": 54.3590814,
+      "name": "Stop 12035185269",
+      "name_en": "Stop 12035185269",
+      "routes": []
+    },
+    {
+      "id": 12035185270,
+      "lat": 24.4624358,
+      "lon": 54.3508978,
+      "name": "Stop 12035185270",
+      "name_en": "Stop 12035185270",
+      "routes": []
+    },
+    {
+      "id": 12039371969,
+      "lat": 24.481951,
+      "lon": 54.3742771,
+      "name": "Stop 12039371969",
+      "name_en": "Stop 12039371969",
+      "routes": []
+    },
+    {
+      "id": 12039372069,
+      "lat": 24.4735183,
+      "lon": 54.362275,
+      "name": "Stop 12039372069",
+      "name_en": "Stop 12039372069",
+      "routes": []
+    },
+    {
+      "id": 12039372070,
+      "lat": 24.4735225,
+      "lon": 54.3623582,
+      "name": "Stop 12039372070",
+      "name_en": "Stop 12039372070",
+      "routes": []
+    },
+    {
+      "id": 12083556869,
+      "lat": 24.4802151,
+      "lon": 54.3709625,
+      "name": "Stop 12083556869",
+      "name_en": "Stop 12083556869",
+      "routes": []
+    },
+    {
+      "id": 12095579901,
+      "lat": 24.4862827,
+      "lon": 54.3725422,
+      "name": "Stop 12095579901",
+      "name_en": "Stop 12095579901",
+      "routes": []
+    },
+    {
+      "id": 12095580001,
+      "lat": 24.4679745,
+      "lon": 54.3587841,
+      "name": "Stop 12095580001",
+      "name_en": "Stop 12095580001",
+      "routes": []
+    },
+    {
+      "id": 12230006681,
+      "lat": 24.5200616,
+      "lon": 54.436823,
+      "name": "Stop 12230006681",
+      "name_en": "Stop 12230006681",
+      "routes": []
+    },
+    {
+      "id": 12343147989,
+      "lat": 24.5129441,
+      "lon": 54.3875767,
+      "name": "Stop 12343147989",
+      "name_en": "Stop 12343147989",
+      "routes": []
+    },
+    {
+      "id": 12376577502,
+      "lat": 24.4571902,
+      "lon": 54.3135169,
+      "name": "Stop 12376577502",
+      "name_en": "Stop 12376577502",
+      "routes": []
+    },
+    {
+      "id": 12449778002,
+      "lat": 24.4496599,
+      "lon": 54.6312329,
+      "name": "A1, A2 first stop",
+      "name_en": "A1, A2 first stop",
+      "routes": []
+    },
+    {
+      "id": 12450271585,
+      "lat": 24.6178853,
+      "lon": 54.7312247,
+      "name": "BAPS Temple",
+      "name_en": "BAPS Temple",
+      "routes": []
+    },
+    {
+      "id": 12453348301,
+      "lat": 24.459358,
+      "lon": 54.3807348,
+      "name": "Stop 12453348301",
+      "name_en": "Stop 12453348301",
+      "routes": []
+    },
+    {
+      "id": 12456396801,
+      "lat": 24.5331654,
+      "lon": 54.4204287,
+      "name": "Stop 12456396801",
+      "name_en": "Stop 12456396801",
+      "routes": []
+    },
+    {
+      "id": 12456396901,
+      "lat": 24.5376129,
+      "lon": 54.4285366,
+      "name": "Saadiyat Villas",
+      "name_en": "Saadiyat Villas",
+      "routes": []
+    },
+    {
+      "id": 12456396902,
+      "lat": 24.5331609,
+      "lon": 54.4238879,
+      "name": "Saadiyat Island",
+      "name_en": "Saadiyat Island",
+      "routes": []
+    },
+    {
+      "id": 12456397001,
+      "lat": 24.5335938,
+      "lon": 54.4206778,
+      "name": "Jacques Chirac St",
+      "name_en": "Jacques Chirac St",
+      "routes": []
+    },
+    {
+      "id": 12460569501,
+      "lat": 24.5506993,
+      "lon": 54.4539641,
+      "name": "Saadiyat Beach Residences",
+      "name_en": "Saadiyat Beach Residences",
+      "routes": []
+    },
+    {
+      "id": 12463071901,
+      "lat": 24.516509,
+      "lon": 54.6618399,
+      "name": "Al Naham St",
+      "name_en": "Al Naham St",
+      "routes": []
+    },
+    {
+      "id": 12463154201,
+      "lat": 24.5211525,
+      "lon": 54.6703833,
+      "name": "ADNOC",
+      "name_en": "ADNOC",
+      "routes": []
+    },
+    {
+      "id": 12463154202,
+      "lat": 24.5416539,
+      "lon": 54.6829017,
+      "name": "Civil Defence",
+      "name_en": "Civil Defence",
+      "routes": []
+    },
+    {
+      "id": 12463154301,
+      "lat": 24.524503,
+      "lon": 54.6733984,
+      "name": "Deerfields Mall",
+      "name_en": "Deerfields Mall",
+      "routes": []
+    },
+    {
+      "id": 12463154401,
+      "lat": 24.528112,
+      "lon": 54.6761733,
+      "name": "Stop 12463154401",
+      "name_en": "Stop 12463154401",
+      "routes": []
+    },
+    {
+      "id": 12463154402,
+      "lat": 24.5415141,
+      "lon": 54.6765143,
+      "name": "Al Shahama School",
+      "name_en": "Al Shahama School",
+      "routes": []
+    },
+    {
+      "id": 12463154501,
+      "lat": 24.5331576,
+      "lon": 54.676942,
+      "name": "Stop 12463154501",
+      "name_en": "Stop 12463154501",
+      "routes": []
+    },
+    {
+      "id": 12463154601,
+      "lat": 24.5448797,
+      "lon": 54.676885,
+      "name": "Emirates Park Zoo",
+      "name_en": "Emirates Park Zoo",
+      "routes": []
+    },
+    {
+      "id": 12488276713,
+      "lat": 24.5168,
+      "lon": 54.378479,
+      "name": "Stop 12488276713",
+      "name_en": "Stop 12488276713",
+      "routes": []
+    },
+    {
+      "id": 13166926801,
+      "lat": 24.564033,
+      "lon": 54.681608,
+      "name": "Stop 13166926801",
+      "name_en": "Stop 13166926801",
+      "routes": []
+    },
+    {
+      "id": 13270027501,
+      "lat": 24.4885684,
+      "lon": 54.3836348,
+      "name": "\u0634\u0627\u0631\u0639 \u0627\u0644\u0641\u0644\u0627\u062d / \u0634\u0627\u0631\u0639 \u0627\u0644\u0634\u064a\u062e \u0632\u0627\u064a\u062f \u0628\u0646 \u0633\u0644\u0637\u0627\u0646",
+      "name_en": "Al Falah St / Shk. Zayed Bin Sultan St",
+      "routes": []
+    },
+    {
+      "id": 13311113201,
+      "lat": 24.4923404,
+      "lon": 54.3779724,
+      "name": "\u0627\u0644\u0632\u0627\u0647\u064a\u0629\u060c \u0634\u0627\u0631\u0639 \u0627\u0644\u0645\u0648\u0643\u0628\u060c \u0634\u0627\u0631\u0639 \u0627\u0644\u0634\u064a\u062e \u0632\u0627\u064a\u062f \u0628\u0646 \u0633\u0644\u0637\u0627\u0646",
+      "name_en": "Al Zahiyah, Al Mawkib St., Shk. Zayid bin Sultan St.",
+      "routes": []
+    },
+    {
+      "id": 13333862701,
+      "lat": 24.4122839,
+      "lon": 54.4797897,
+      "name": "Stop 13333862701",
+      "name_en": "Free airport shuttle",
+      "routes": []
+    },
+    {
+      "id": 13335666301,
+      "lat": 24.4580537,
+      "lon": 54.3541816,
+      "name": "\u0634\u0627\u0631\u0639 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a \\ \u0634\u0627\u0631\u0639 \u0647\u0632\u0627\u0639 \u0628\u0646 \u0632\u0627\u064a\u062f",
+      "name_en": "Al Khaleej Al Arabi St / Hazza\u2019 Bin Zayed St",
+      "routes": []
+    },
+    {
+      "id": 13335756401,
+      "lat": 24.4593304,
+      "lon": 54.3529472,
+      "name": "\u0634\u0627\u0631\u0639 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a / \u0645\u062c\u0645\u0639 \u062d\u062f\u0627\u0626\u0642 \u0628\u0644\u0627\u0632\u0627 \u0627\u0644\u0628\u0637\u064a\u0646",
+      "name_en": "Al Khaleej Al Arabi St / Al Bateen Park Plaza",
+      "routes": []
+    },
+    {
+      "id": 13335756501,
+      "lat": 24.4610837,
+      "lon": 54.3512627,
+      "name": "\u0634\u0627\u0631\u0639 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a / \u0645\u0633\u062c\u062f \u0627\u0644\u0631\u0636\u0648\u0627\u0646",
+      "name_en": "Al Khaleej Al Arabi St / Al Ridwan Mosque",
+      "routes": []
+    },
+    {
+      "id": 13413172901,
+      "lat": 24.5400762,
+      "lon": 54.6922452,
+      "name": "Stop 13413172901",
+      "name_en": "Bus to Saudi Arabia",
+      "routes": []
+    },
+    {
+      "id": 13460004207,
+      "lat": 24.4795159,
+      "lon": 54.3551614,
+      "name": "Zayed The First St / Qasr Al Hosn",
+      "name_en": "Zayed The First St / Qasr Al Hosn",
+      "routes": []
+    },
+    {
+      "id": 13460004208,
+      "lat": 24.4807319,
+      "lon": 54.3571368,
+      "name": "Zayed The First St / Qasr Al Hosn",
+      "name_en": "Zayed The First St / Qasr Al Hosn",
+      "routes": []
+    },
+    {
+      "id": 13478391501,
+      "lat": 24.5300267,
+      "lon": 54.4050852,
+      "name": "Stop 13478391501",
+      "name_en": "Stop 13478391501",
+      "routes": []
+    },
+    {
+      "id": 13483096201,
+      "lat": 24.443899,
+      "lon": 54.6094953,
+      "name": "Stop 13483096201",
+      "name_en": "Stop 13483096201",
+      "routes": []
+    },
+    {
+      "id": 13483097401,
+      "lat": 24.4455522,
+      "lon": 54.6152468,
+      "name": "Stop 13483097401",
+      "name_en": "Stop 13483097401",
+      "routes": []
+    },
+    {
+      "id": 13545333064,
+      "lat": 24.4942991,
+      "lon": 54.3806557,
+      "name": "Stop 13545333064",
+      "name_en": "Stop 13545333064",
+      "routes": []
+    }
+  ],
+  "routes": [
+    {
+      "id": 4294920,
+      "name": "Yas Mall Shuttle Bus",
+      "ref": "Yas Mall Shuttle Bus",
+      "operator": "Yas Mall",
+      "stops": [
+        3246139744,
+        3246143338,
+        3246317524
+      ]
+    },
+    {
+      "id": 5730835,
+      "name": "Route 5730835",
+      "ref": "054",
+      "operator": "DOT",
+      "stops": [
+        3872381609,
+        3870509486,
+        3870421161,
+        3885322535,
+        1802887906,
+        3763330168,
+        3048791509,
+        3837359639,
+        3837356603,
+        3837356676
+      ]
+    },
+    {
+      "id": 14655124,
+      "name": "Route 14655124",
+      "ref": "170",
+      "operator": "Abu Dhabi Integrated Transport Centre",
+      "stops": [
+        7518047377
+      ]
+    },
+    {
+      "id": 14655388,
+      "name": "Route 14655388",
+      "ref": "170",
+      "operator": "Abu Dhabi Integrated Trasport Centre",
+      "stops": [
+        261668914
+      ]
+    },
+    {
+      "id": 14864648,
+      "name": "Route 14864648",
+      "ref": "161",
+      "operator": "Abu Dhabi Integrated Trasport Centre",
+      "stops": [
+        262629444,
+        262631502,
+        263331359
+      ]
+    },
+    {
+      "id": 16228345,
+      "name": "A1",
+      "ref": "A1",
+      "operator": "Unknown",
+      "stops": [
+        11135117824,
+        7220741389,
+        4443327192,
+        6137563687,
+        11135117830,
+        6137563688,
+        11135117832,
+        6137563689,
+        11135117834,
+        4515514789,
+        11135117835,
+        11135117836,
+        5729515221,
+        11135117849,
+        10187694217,
+        11135117855,
+        9766494170,
+        6521216744,
+        11135117829,
+        11135159520,
+        11135199392
+      ]
+    },
+    {
+      "id": 16228387,
+      "name": "Reg Bus A1",
+      "ref": "A1",
+      "operator": "Integrated Transport Centre",
+      "stops": [
+        11135159521,
+        11135159522,
+        11135159526,
+        7236228885,
+        11135159543,
+        6137563686,
+        6137564287,
+        11135159545,
+        11135159546,
+        6137564286,
+        11135159547,
+        6137566485,
+        11135159548,
+        6116694290,
+        11135159550,
+        11135159549,
+        11135159552,
+        9701503117,
+        11135117824,
+        11135159520
+      ]
+    },
+    {
+      "id": 16228501,
+      "name": "407",
+      "ref": "407",
+      "operator": "Unknown",
+      "stops": [
+        11135159520,
+        11135117824,
+        11135199392,
+        7220741389,
+        5796945023,
+        11135199393,
+        11135117829,
+        4443327192,
+        11135199395,
+        3048784261,
+        11135199400,
+        6116694292,
+        11135199401,
+        2699649153,
+        11135207210,
+        4298097792,
+        11135207211,
+        6116694298,
+        11135207213,
+        11135207218,
+        6710422185,
+        10187694217,
+        11135117849,
+        11135225542,
+        11513560815,
+        10864182235,
+        11135225544,
+        11135225545,
+        11135225547,
+        11135225548,
+        11135225549,
+        4303115690,
+        2551885497,
+        11135234511,
+        11135234516,
+        11135234517,
+        11135234518,
+        11135234519,
+        11135234520,
+        11135234522,
+        11135234523,
+        11135234525,
+        11135234526,
+        11135234537,
+        11135234538,
+        11135225546,
+        11135225550
+      ]
+    },
+    {
+      "id": 17591219,
+      "name": "City Bus 73",
+      "ref": "73",
+      "operator": "ITC",
+      "stops": [
+        11902521960,
+        11902521959,
+        2479490053,
+        11902521961,
+        2479532215,
+        11902521962,
+        11902567687,
+        11902567686,
+        11902567689,
+        11902567688,
+        6543042037,
+        11902567690,
+        11902567693,
+        11902567692,
+        10699457138,
+        11902567694,
+        11902567696,
+        11902567695,
+        11902567697,
+        11902567700,
+        11902567701,
+        11902567702,
+        11902567706,
+        11902567705,
+        11902567708,
+        11902567707,
+        11902567710,
+        11902567711,
+        11902567713,
+        11902567712,
+        11902567714,
+        11902567715,
+        11902567717,
+        11902567716,
+        11901252556,
+        11901252555,
+        11902567718,
+        11902567719
+      ]
+    },
+    {
+      "id": 17612201,
+      "name": "City Bus 5",
+      "ref": "5",
+      "operator": "Integrated Transport Centre",
+      "stops": [
+        4878605139,
+        11918628116,
+        4680185390,
+        11918628117,
+        11918628118,
+        11918628120,
+        11918628121,
+        11918628122,
+        11918628123,
+        11918628125,
+        11918628124,
+        11918628126,
+        11918628127,
+        11918628128,
+        11918628129,
+        11918628130,
+        11918628131,
+        11918628132,
+        11918628133,
+        11918628134,
+        11918628140,
+        11918628151,
+        11918628149,
+        11918628148,
+        11918628152,
+        11918628153,
+        11135159548,
+        6116694290,
+        11135159550,
+        11135159549,
+        9701503117,
+        11135159552,
+        6137564288,
+        11918628155,
+        11918628157,
+        11918628156,
+        11918628150,
+        11918628160,
+        11918628159
+      ]
+    },
+    {
+      "id": 17680904,
+      "name": "City Bus ART Service",
+      "ref": "ART",
+      "operator": "Integrated Transport Centre",
+      "stops": [
+        11959255829,
+        10143278075,
+        11901770554,
+        11901770553,
+        11959267595,
+        9465637317,
+        11959267616,
+        11959267617,
+        11959267619,
+        11959267618,
+        11959267620,
+        11959267621,
+        11959267622,
+        11959267623,
+        11959267655,
+        11959267656,
+        11959267672,
+        11959267675,
+        11959267676,
+        11959267671,
+        11959267679,
+        11959267678
+      ]
+    },
+    {
+      "id": 18166040,
+      "name": "41",
+      "ref": "41",
+      "operator": "Unknown",
+      "stops": [
+        11767954999
+      ]
+    },
+    {
+      "id": 18166041,
+      "name": "L41",
+      "ref": "L41",
+      "operator": "Unknown",
+      "stops": [
+        11767954999
+      ]
+    }
+  ]
+}
