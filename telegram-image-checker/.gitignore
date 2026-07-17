@@ -1,0 +1,20 @@
+# Secrets & sessions
+.env
+*.session
+*.session-journal
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
