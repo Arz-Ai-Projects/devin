@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Folder List View -->
+    <record id="view_vp_launcher_folder_tree" model="ir.ui.view">
+        <field name="name">vp.launcher.folder.list</field>
+        <field name="model">vp.launcher.folder</field>
+        <field name="arch" type="xml">
+            <list string="Launcher Folders" multi_edit="1">
+                <field name="sequence" widget="handle"/>
+                <field name="name"/>
+                <field name="icon"/>
+                <field name="group_ids" widget="many2many_tags"/>
+                <field name="user_ids" widget="many2many_tags"/>
+                <field name="active" widget="boolean_toggle"/>
+            </list>
+        </field>
+    </record>
+
+    <!-- Folder Form View -->
+    <record id="view_vp_launcher_folder_form" model="ir.ui.view">
+        <field name="name">vp.launcher.folder.form</field>
+        <field name="model">vp.launcher.folder</field>
+        <field name="arch" type="xml">
+            <form string="Launcher Folder">
+                <sheet>
+                    <div class="oe_title">
+                        <label for="name" class="oe_edit_only"/>
+                        <h1><field name="name" placeholder="Folder Name (e.g. Sales, Operations)"/></h1>
+                    </div>
+                    <group>
+                        <group>
+                            <field name="icon" placeholder="fa-folder or emoji"/>
+                            <field name="sequence"/>
+                            <field name="active"/>
+                        </group>
+                        <group string="Assignments">
+                            <field name="group_ids" widget="many2many_tags" placeholder="Apply to security groups..."/>
+                            <field name="user_ids" widget="many2many_tags" placeholder="Apply to specific users..."/>
+                        </group>
+                    </group>
+                    <notebook>
+                        <page string="Folder Apps / Menus" name="items">
+                            <field name="item_ids">
+                                <list editable="bottom">
+                                    <field name="sequence" widget="handle"/>
+                                    <field name="menu_id"/>
+                                    <field name="custom_name" placeholder="Override display label"/>
+                                </list>
+                            </field>
+                        </page>
+                    </notebook>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <!-- Folder Action -->
+    <record id="action_vp_launcher_folder" model="ir.actions.act_window">
+        <field name="name">Launcher Folders</field>
+        <field name="res_model">vp.launcher.folder</field>
+        <field name="view_mode">list,form</field>
+        <field name="help" type="html">
+            <p class="o_view_nocontent_smiling_face">
+                Create launcher folders and assign standard Odoo menus/apps to them!
+            </p>
+        </field>
+    </record>
+</odoo>

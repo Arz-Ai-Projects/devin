@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="vp_user_app_menu.AppLauncher">
+        <div class="vp-app-launcher-container">
+            <!-- Header Section -->
+            <div class="vp-launcher-header">
+                <div class="vp-launcher-title">
+                    <i class="fa fa-th-large vp-logo-icon"/>
+                    <h2>App Launcher</h2>
+                </div>
+
+                <!-- Search Input -->
+                <div class="vp-search-box">
+                    <i class="fa fa-search"/>
+                    <input type="text"
+                           class="form-control"
+                           placeholder="Search applications..."
+                           t-model="state.searchQuery"
+                           t-on-input="onSearchInput"/>
+                </div>
+
+                <!-- Header Actions -->
+                <div class="vp-header-actions">
+                    <button class="btn-vp-primary" t-on-click="openCreateFolderModal">
+                        <i class="fa fa-folder-plus"/>
+                        <span>New Folder</span>
+                    </button>
+                    <button class="btn-vp-secondary" t-on-click="resetLayout">
+                        <i class="fa fa-undo"/>
+                        <span>Reset Layout</span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="vp-launcher-content">
+                <!-- Favorites Section -->
+                <t t-if="favoriteItems.length &gt; 0">
+                    <div class="vp-section-block">
+                        <div class="vp-section-header">
+                            <i class="fa fa-star"/>
+                            <h3>Favorites</h3>
+                        </div>
+                        <div class="vp-app-grid">
+                            <t t-foreach="favoriteItems" t-as="item" t-key="item.menu_id">
+                                <div class="vp-app-card" t-on-click="() => this.openApp(item)">
+                                    <div class="vp-fav-star active" t-on-click.stop="() => this.toggleFavorite(item.menu_id)">
+                                        <i class="fa fa-star"/>
+                                    </div>
+                                    <div class="vp-app-icon">
+                                        <t t-if="item.web_icon_data">
+                                            <img t-att-src="'data:image/png;base64,' + item.web_icon_data" alt="App Icon"/>
+                                        </t>
+                                        <t t-elif="item.web_icon">
+                                            <i t-att-class="'fa ' + (item.web_icon || 'fa-cubes')"/>
+                                        </t>
+                                        <t t-else="">
+                                            <i class="fa fa-cubes"/>
+                                        </t>
+                                    </div>
+                                    <span class="vp-app-title"><t t-esc="item.name"/></span>
+                                </div>
+                            </t>
+                        </div>
+                    </div>
+                </t>
+
+                <!-- Recently Used Section -->
+                <t t-if="recentItems.length &gt; 0 and !state.searchQuery">
+                    <div class="vp-section-block">
+                        <div class="vp-section-header">
+                            <i class="fa fa-history"/>
+                            <h3>Recently Used</h3>
+                        </div>
+                        <div class="vp-app-grid">
+                            <t t-foreach="recentItems" t-as="item" t-key="'recent_' + item.menu_id">
+                                <div class="vp-app-card" t-on-click="() => this.openApp(item)">
+                                    <div class="vp-app-icon">
+                                        <t t-if="item.web_icon_data">
+                                            <img t-att-src="'data:image/png;base64,' + item.web_icon_data" alt="App Icon"/>
+                                        </t>
+                                        <t t-else="">
+                                            <i class="fa fa-clock-o"/>
+                                        </t>
+                                    </div>
+                                    <span class="vp-app-title"><t t-esc="item.name"/></span>
+                                </div>
+                            </t>
+                        </div>
+                    </div>
+                </t>
+
+                <!-- Folders List -->
+                <div class="vp-folders-grid">
+                    <t t-foreach="displayedFolders" t-as="folder" t-key="folder.id">
+                        <div class="vp-folder-card"
+                             draggable="true"
+                             t-on-dragstart="(ev) => this.onFolderDragStart(ev, folder)"
+                             t-on-dragover.prevent=""
+                             t-on-drop="(ev) => this.onFolderDrop(ev, folder)">
+
+                            <div class="vp-folder-header">
+                                <div class="vp-folder-title" t-on-click="() => this.toggleFolderExpand(folder.id)">
+                                    <i t-att-class="'fa vp-folder-icon ' + (folder.icon || 'fa-folder')"/>
+                                    <span class="vp-folder-name"><t t-esc="folder.name"/></span>
+                                    <span class="vp-item-count"><t t-esc="folder.items ? folder.items.length : 0"/> apps</span>
+                                </div>
+
+                                <div class="vp-folder-actions">
+                                    <t t-if="folder.is_personal">
+                                        <button class="btn-icon" title="Rename Folder" t-on-click="() => this.openRenameFolderModal(folder)">
+                                            <i class="fa fa-pencil"/>
+                                        </button>
+                                        <button class="btn-icon" title="Delete Personal Folder" t-on-click="() => this.deletePersonalFolder(folder.id)">
+                                            <i class="fa fa-trash"/>
+                                        </button>
+                                    </t>
+                                    <button class="btn-icon" t-on-click="() => this.toggleFolderExpand(folder.id)">
+                                        <i t-att-class="'fa ' + (isFolderExpanded(folder.id) ? 'fa-chevron-up' : 'fa-chevron-down')"/>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <div t-att-class="'vp-folder-body ' + (isFolderExpanded(folder.id) ? '' : 'collapsed')"
+                                 t-on-dragover.prevent=""
+                                 t-on-drop="(ev) => this.onItemDropToFolder(ev, folder)">
+
+                                <div class="vp-app-grid">
+                                    <t t-foreach="folder.items || []" t-as="item" t-key="item.menu_id">
+                                        <t t-if="!item.hidden">
+                                            <div class="vp-app-card"
+                                                 draggable="true"
+                                                 t-on-dragstart="(ev) => this.onItemDragStart(ev, folder, item)"
+                                                 t-on-click="() => this.openApp(item)">
+
+                                                <div t-att-class="'vp-fav-star ' + (isFavorite(item.menu_id) ? 'active' : '')"
+                                                     t-on-click.stop="() => this.toggleFavorite(item.menu_id)">
+                                                    <i class="fa fa-star"/>
+                                                </div>
+
+                                                <div class="vp-app-icon">
+                                                    <t t-if="item.web_icon_data">
+                                                        <img t-att-src="'data:image/png;base64,' + item.web_icon_data" alt="App Icon"/>
+                                                    </t>
+                                                    <t t-elif="item.web_icon">
+                                                        <i t-att-class="'fa ' + (item.web_icon || 'fa-cubes')"/>
+                                                    </t>
+                                                    <t t-else="">
+                                                        <i class="fa fa-cubes"/>
+                                                    </t>
+                                                </div>
+                                                <span class="vp-app-title"><t t-esc="item.name"/></span>
+                                            </div>
+                                        </t>
+                                    </t>
+                                </div>
+                            </div>
+                        </div>
+                    </t>
+                </div>
+            </div>
+
+            <!-- Folder Create/Rename Modal -->
+            <t t-if="state.showFolderModal">
+                <div class="vp-modal-backdrop" t-on-click.self="closeFolderModal">
+                    <div class="vp-modal-content">
+                        <h4 t-esc="state.editingFolderId ? 'Rename Personal Folder' : 'Create Personal Folder'"/>
+                        <div class="form-group">
+                            <label>Folder Name</label>
+                            <input type="text" class="form-control" t-model="state.folderModalName"/>
+                        </div>
+                        <div class="vp-modal-actions">
+                            <button class="btn btn-secondary" t-on-click="closeFolderModal">Cancel</button>
+                            <button class="btn btn-primary" t-on-click="saveFolderModal">Save</button>
+                        </div>
+                    </div>
+                </div>
+            </t>
+        </div>
+    </t>
+</templates>

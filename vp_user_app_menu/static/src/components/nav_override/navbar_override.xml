@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-inherit="web.NavBar" t-inherit-mode="extension">
+        <xpath expr="//*[@class='o_navbar_apps_menu'] | //*[hasclass('o_menu_toggle')] | //*[hasclass('o_home_menu_toggle')]" position="before">
+            <button class="btn btn-icon o_nav_entry vp_launcher_nav_toggle"
+                    type="button"
+                    title="Folder App Launcher"
+                    t-on-click="onNavBarAppLauncherClick">
+                <i class="fa fa-th-large" style="color: #F7931E; font-size: 1.2rem;"/>
+            </button>
+        </xpath>
+    </t>
+</templates>

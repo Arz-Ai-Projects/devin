@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- User Config List View -->
+    <record id="view_vp_launcher_user_config_tree" model="ir.ui.view">
+        <field name="name">vp.launcher.user.config.list</field>
+        <field name="model">vp.launcher.user.config</field>
+        <field name="arch" type="xml">
+            <list string="User Launcher Configurations">
+                <field name="user_id"/>
+                <field name="favorite_menu_ids" widget="many2many_tags"/>
+            </list>
+        </field>
+    </record>
+
+    <!-- User Config Form View -->
+    <record id="view_vp_launcher_user_config_form" model="ir.ui.view">
+        <field name="name">vp.launcher.user.config.form</field>
+        <field name="model">vp.launcher.user.config</field>
+        <field name="arch" type="xml">
+            <form string="User Launcher Configuration">
+                <sheet>
+                    <group>
+                        <field name="user_id"/>
+                        <field name="favorite_menu_ids" widget="many2many_tags"/>
+                    </group>
+                    <notebook>
+                        <page string="Custom Layout JSON" name="layout">
+                            <field name="layout_json" widget="ace" options="{'mode': 'json'}"/>
+                        </page>
+                    </notebook>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <!-- User Config Action -->
+    <record id="action_vp_launcher_user_config" model="ir.actions.act_window">
+        <field name="name">User Configurations</field>
+        <field name="res_model">vp.launcher.user.config</field>
+        <field name="view_mode">list,form</field>
+    </record>
+</odoo>
